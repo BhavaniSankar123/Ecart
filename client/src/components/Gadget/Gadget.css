@@ -1,0 +1,41 @@
+.gadget {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.gadget-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.gadget-top h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.gadget-top a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.gadget-top a:hover {
+  text-decoration: underline;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.images img {
+  width: calc(25% - 10px);
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

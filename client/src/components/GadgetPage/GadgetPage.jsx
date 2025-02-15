@@ -40,6 +40,7 @@ const GadgetPage = ({ dataList, index }) => {
     )
   );
 
+  console.log(selectedItems);
   return (
     <div className="gadget-container">
       <div className="category">
