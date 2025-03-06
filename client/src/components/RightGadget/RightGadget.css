@@ -15,11 +15,14 @@
 }
 
 .rightGadget img {
-  width: 100%;
-  height: auto;
+  width: 10rem;
+  height: 10rem;
   border-radius: 5px;
 }
-
+.rightGadget li:hover {
+  transform: scale(1.1);
+  background-color: #d9e977;
+}
 .product-details {
   margin-top: 10px;
 }
@@ -43,6 +46,8 @@
 .product-details .quant {
   background-color: #ddd;
   border: none;
+  width: 30px;
+  color: black;
   padding: 5px 10px;
   cursor: pointer;
 }

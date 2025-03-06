@@ -34,13 +34,36 @@ const Login = () => {
   };
 
   return (
-    <form onSubmit={checkMatch}>
-      <input type="email" ref={email} placeholder="Email" required />
-      <input type="password" ref={password} placeholder="Password" required />
-      <button type="submit">Login</button>
-      <div className="error" style={{ display: "none" }}></div>
-      <Link to="/register">Register</Link>
-    </form>
+    <div className="flex flex-col justify-center items-center h-screen gap-4">
+      <h1 className="text-red-500 text-2xl text-bold">Login</h1>
+      <form
+        onSubmit={checkMatch}
+        className="h-96 w-96 flex flex-col gap-4 items-center border-2 border-black p-4"
+      >
+        <input
+          type="email"
+          className="border"
+          ref={email}
+          placeholder="Email"
+          required
+        />
+        <input
+          type="password"
+          className="border"
+          ref={password}
+          placeholder="Password"
+          required
+        />
+        <button type="submit" className="w-auto">
+          Login
+        </button>
+        <div className="error" style={{ display: "none" }}></div>
+        <p>Don't have an account?</p>
+        <Link to="/register" className="hover:text-blue-500">
+          Register
+        </Link>
+      </form>
+    </div>
   );
 };
 

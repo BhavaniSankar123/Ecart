@@ -6,7 +6,7 @@ export const MobilesData = [
     price: 999,
     description:
       "The latest iPhone with A15 Bionic chip and advanced camera system.",
-    imgUrl: "path/to/iphone13.jpg",
+    imgUrl: "src/assets/images/Mobiles/1.png",
     quantity: 1,
   },
   {
@@ -15,7 +15,7 @@ export const MobilesData = [
     model: "Galaxy S21",
     price: 799,
     description: "The latest Galaxy phone with Exynos 2100 and 108MP camera.",
-    imgUrl: "path/to/galaxys21.jpg",
+    imgUrl: "src/assets/images/Mobiles/2.png",
     quantity: 1,
   },
   {
@@ -25,7 +25,7 @@ export const MobilesData = [
     price: 729,
     description:
       "The latest OnePlus phone with Snapdragon 888 and Hasselblad camera.",
-    imgUrl: "path/to/oneplus9.jpg",
+    imgUrl: "src/assets/images/Mobiles/3.png",
     quantity: 1,
   },
   {
@@ -35,7 +35,7 @@ export const MobilesData = [
     price: 599,
     description:
       "The latest Google phone with Tensor chip and advanced AI features.",
-    imgUrl: "path/to/pixel6.jpg",
+    imgUrl: "src/assets/images/Mobiles/4.png",
     quantity: 1,
   },
   {
@@ -45,7 +45,7 @@ export const MobilesData = [
     price: 699,
     description:
       "The latest Xiaomi phone with Snapdragon 888 and 108MP camera.",
-    imgUrl: "path/to/mi11.jpg",
+    imgUrl: "src/assets/images/Mobiles/5.png",
     quantity: 1,
   },
   {
@@ -55,7 +55,7 @@ export const MobilesData = [
     price: 499,
     description:
       "The latest Realme phone with Snapdragon 888 and 120Hz AMOLED display.",
-    imgUrl: "path/to/realmeGT.jpg",
+    imgUrl: "src/assets/images/Mobiles/6.png",
     quantity: 1,
   },
   {
@@ -65,7 +65,7 @@ export const MobilesData = [
     price: 599,
     description:
       "The latest Oppo phone with Snapdragon 870 and 120Hz AMOLED display.",
-    imgUrl: "path/to/oppoFindX3.jpg",
+    imgUrl: "src/assets/images/Mobiles/7.png",
     quantity: 1,
   },
   {
@@ -75,7 +75,7 @@ export const MobilesData = [
     price: 549,
     description:
       "The latest Vivo phone with Snapdragon 870 and Zeiss optics camera.",
-    imgUrl: "path/to/vivoX60.jpg",
+    imgUrl: "src/assets/images/Mobiles/8.png",
     quantity: 1,
   },
   {
@@ -85,7 +85,7 @@ export const MobilesData = [
     price: 499,
     description:
       "The latest Motorola phone with Snapdragon 778G and 144Hz display.",
-    imgUrl: "path/to/motorolaEdge.jpg",
+    imgUrl: "src/assets/images/Mobiles/9.png",
     quantity: 1,
   },
   {
@@ -95,6 +95,414 @@ export const MobilesData = [
     price: 399,
     description:
       "The latest Nokia phone with Snapdragon 480 and 48MP quad camera.",
-    imgUrl: "path/to/nokiaX20.jpg",
+    imgUrl: "src/assets/images/Mobiles/10.png",
+    quantity: 1,
   },
+  {
+    id: 11,
+    brand: "Sony",
+    model: "Sony Xperia 1 III",
+    price: 899,
+    description:
+      "The latest Sony phone with Snapdragon 888 and 4K HDR OLED display.",
+    imgUrl: "src/assets/images/Mobiles/11.png",
+    quantity: 1,
+  },
+  {
+    id: 12,
+    brand: "Asus",
+    model: "Asus ROG Phone 5",
+    price: 699,
+    description:
+      "The latest Asus phone with Snapdragon 888 and 144Hz AMOLED display.",
+    imgUrl: "src/assets/images/Mobiles/12.png",
+    quantity: 1,
+  },
+  {
+    id: 13,
+    brand: "LG",
+    model: "LG G9 Thinq",
+    price: 299,
+    description: "The latest LG phone with Snapdragon 845 and 16MP camera.",
+    imgUrl: "src/assets/images/Mobiles/13.png",
+    quantity: 1,
+  },
+  {
+    id: 14,
+    brand: "HTC",
+    model: "HTC U12+",
+    price: 399,
+    description: "The latest HTC phone with Snapdragon 845 and 12MP camera.",
+    imgUrl: "src/assets/images/Mobiles/14.png",
+    quantity: 1,
+  },
+  {
+    id: 15,
+    brand: "Blackberry",
+    model: "Blackberry Key2",
+    price: 499,
+    description:
+      "The latest Blackberry phone with Snapdragon 660 and QWERTY keyboard.",
+    imgUrl: "src/assets/images/Mobiles/15.png",
+    quantity: 1,
+  },
+  {
+    id: 16,
+    brand: "Huawei",
+    model: "Huawei P50 Pro",
+    price: 699,
+    description: "The latest Huawei phone with Kirin 990 and 50MP camera.",
+    imgUrl: "src/assets/images/Mobiles/16.png",
+    quantity: 1,
+  },
+  {
+    id: 17,
+    brand: "ZTE",
+    model: "ZTE Axon 30",
+    price: 499,
+    description: "The latest ZTE phone with Snapdragon 870 and 64MP camera.",
+    imgUrl: "src/assets/images/Mobiles/17.png",
+    quantity: 1,
+  },
+  {
+    id: 18,
+    brand: "Lenovo",
+    model: "Lenovo Legion Phone Duel 2",
+    price: 799,
+    description:
+      "The latest Lenovo phone with Snapdragon 888 and 144Hz AMOLED display.",
+    imgUrl: "src/assets/images/Mobiles/18.png",
+    quantity: 1,
+  },
+  {
+    id: 19,
+    brand: "Meizu",
+    model: "Meizu 18",
+    price: 599,
+    description:
+      "The latest Meizu phone with Snapdragon 888 and 120Hz AMOLED display.",
+    imgUrl: "src/assets/images/Mobiles/19.png",
+    quantity: 1,
+  },
+  {
+    id: 20,
+    brand: "TCL",
+    model: "TCL 20 Pro",
+    price: 399,
+    description: "The latest TCL phone with Snapdragon 750G and 48MP camera.",
+    imgUrl: "src/assets/images/Mobiles/20.png",
+    quantity: 1,
+  },
+  {
+    id: 21,
+    brand: "Infinix",
+    model: "Infinix Zero X",
+    price: 299,
+    description:
+      "The latest Infinix phone with MediaTek Helio G95 and 108MP camera.",
+    imgUrl: "src/assets/images/Mobiles/21.png",
+    quantity: 1,
+  },
+  {
+    id: 22,
+    brand: "Poco",
+    model: "Poco F3",
+    price: 399,
+    description:
+      "The latest Poco phone with Snapdragon 870 and 120Hz AMOLED display.",
+    imgUrl: "src/assets/images/Mobiles/22.png",
+    quantity: 1,
+  },
+  {
+    id: 23,
+    brand: "Micromax",
+    model: "Micromax In Note 2",
+    price: 199,
+    description:
+      "The latest Micromax phone with MediaTek Helio G95 and 48MP camera.",
+    imgUrl: "src/assets/images/Mobiles/23.png",
+    quantity: 1,
+  },
+  {
+    id: 24,
+    brand: "Lava",
+    model: "Lava Agni 5G",
+    price: 149,
+    description:
+      "The latest Lava phone with MediaTek Dimensity 900 and 64MP camera.",
+    imgUrl: "src/assets/images/Mobiles/24.png",
+    quantity: 1,
+  },
+  {
+    id: 25,
+    brand: "Intex",
+    model: "Intex Aqua Zenith",
+    price: 99,
+    description:
+      "The latest Intex phone with MediaTek Helio A22 and 13MP camera.",
+    imgUrl: "src/assets/images/Mobiles/25.png",
+    quantity: 1,
+  },
+  {
+    id: 26,
+    brand: "Micromax",
+    model: "Micromax In 2C",
+    price: 149,
+    description:
+      "The latest Micromax phone with Unisoc SC9863A and 13MP camera.",
+    imgUrl: "src/assets/images/Mobiles/26.png",
+    quantity: 1,
+  },
+  {
+    id: 27,
+    brand: "Lava",
+    model: "Lava Agni 4G",
+    price: 99,
+    description: "The latest Lava phone with Unisoc SC9863A and 13MP camera.",
+    imgUrl: "src/assets/images/Mobiles/27.png",
+    quantity: 1,
+  },
+  {
+    id: 28,
+    brand: "Intex",
+    model: "Intex Aqua Zenith 4G",
+    price: 79,
+    description: "The latest Intex phone with Unisoc SC9832E and 8MP camera.",
+    imgUrl: "src/assets/images/Mobiles/28.png",
+    quantity: 1,
+  },
+  {
+    id: 29,
+    brand: "Micromax",
+    model: "Micromax In 1B",
+    price: 99,
+    description:
+      "The latest Micromax phone with MediaTek Helio G35 and 13MP camera.",
+    imgUrl: "src/assets/images/Mobiles/29.png",
+    quantity: 1,
+  },
+  {
+    id: 30,
+    brand: "Vivo",
+    model: "Vivo Z1x",
+    price: 299,
+    description:
+      "The Vivo Z1x comes with a Snapdragon 712 processor and a 48MP triple camera setup.",
+    imgUrl: "src/assets/images/Mobiles/30.png",
+    quantity: 1,
+  },
+  {
+    id: 31,
+    brand: "Samsung",
+    model: "Galaxy Z Fold 3",
+    price: 1799,
+    description:
+      "The latest Samsung Galaxy Z Fold 3 with foldable display and Snapdragon 888.",
+    imgUrl: "src/assets/images/Mobiles/31.png",
+    quantity: 1,
+  },
+  {
+    id: 32,
+    brand: "LG",
+    model: "LG G7 Fit",
+    price: 399,
+    description: "The LG G7 Fit with Snapdragon 821 and 16MP camera.",
+    imgUrl: "src/assets/images/Mobiles/32.png",
+    quantity: 1,
+  },
+  {
+    id: 33,
+    brand: "Nokia",
+    model: "Nokia 8.3 5G",
+    price: 499,
+    description: "The Nokia 8.3 5G with Snapdragon 765G and 64MP quad camera.",
+    imgUrl: "src/assets/images/Mobiles/33.png",
+    quantity: 1,
+  },
+  {
+    id: 34,
+    brand: "Sony",
+    model: "Sony Xperia 5 III",
+    price: 999,
+    description:
+      "The Sony Xperia 5 III with Snapdragon 888 and 120Hz OLED display.",
+    imgUrl: "src/assets/images/Mobiles/34.png",
+    quantity: 1,
+  },
+  {
+    id: 35,
+    brand: "OnePlus",
+    model: "OnePlus 9 Pro",
+    price: 999,
+    description:
+      "The OnePlus 9 Pro with Snapdragon 888 and 120Hz Fluid AMOLED display.",
+    imgUrl: "src/assets/images/Mobiles/35.png",
+    quantity: 1,
+  },
+  {
+    id: 36,
+    brand: "Google",
+    model: "Pixel 6 Pro",
+    price: 899,
+    description:
+      "The Google Pixel 6 Pro with Tensor chip and 120Hz LTPO OLED display.",
+    imgUrl: "src/assets/images/Mobiles/36.png",
+    quantity: 1,
+  },
+  {
+    id: 37,
+    brand: "Xiaomi",
+    model: "Xiaomi Mi 11 Ultra",
+    price: 899,
+    description:
+      "The Xiaomi Mi 11 Ultra with Snapdragon 888 and 120Hz AMOLED display.",
+    imgUrl: "src/assets/images/Mobiles/37.png",
+    quantity: 1,
+  },
+  {
+    id: 38,
+    brand: "Realme",
+    model: "Realme GT Master Edition",
+    price: 399,
+    description:
+      "The Realme GT Master Edition with Snapdragon 778G and 120Hz AMOLED display.",
+    imgUrl: "src/assets/images/Mobiles/38.png",
+    quantity: 1,
+  },
+  {
+    id: 39,
+    brand: "Oppo",
+    model: "Oppo Reno6 Pro",
+    price: 699,
+    description:
+      "The Oppo Reno6 Pro with Dimensity 1200 and 90Hz AMOLED display.",
+    imgUrl: "src/assets/images/Mobiles/39.png",
+    quantity: 1,
+  },
+  {
+    id: 40,
+    brand: "Vivo",
+    model: "Vivo X60 Pro",
+    price: 699,
+    description:
+      "The Vivo X60 Pro with Snapdragon 870 and Zeiss optics camera.",
+    imgUrl: "src/assets/images/Mobiles/40.png",
+    quantity: 1,
+  },
+  // {
+  //   id: 41,
+  //   brand: "Motorola",
+  //   model: "Motorola Edge 20",
+  //   price: 499,
+  //   description: "The Motorola Edge 20 with Snapdragon 778G and 144Hz display.",
+  //   imgUrl: "src/assets/images/Mobiles/41.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 42,
+  //   brand: "Nokia",
+  //   model: "Nokia G50",
+  //   price: 199,
+  //   description: "The Nokia G50 with Snapdragon 480 and 48MP triple camera.",
+  //   imgUrl: "src/assets/images/Mobiles/42.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 43,
+  //   brand: "Sony",
+  //   model: "Sony Xperia 10 III",
+  //   price: 499,
+  //   description:
+  //     "The Sony Xperia 10 III with Snapdragon 690 and 120Hz OLED display.",
+  //   imgUrl: "src/assets/images/Mobiles/43.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 44,
+  //   brand: "Asus",
+  //   model: "Asus Zenfone 8",
+  //   price: 699,
+  //   description:
+  //     "The Asus Zenfone 8 with Snapdragon 888 and 120Hz AMOLED display.",
+  //   imgUrl: "src/assets/images/Mobiles/44.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 45,
+  //   brand: "Blackberry",
+  //   model: "Blackberry Key2 LE",
+  //   price: 399,
+  //   description:
+  //     "The Blackberry Key2 LE with Snapdragon 636 and QWERTY keyboard.",
+  //   imgUrl: "src/assets/images/Mobiles/45.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 46,
+  //   brand: "Huawei",
+  //   model: "Huawei P40",
+  //   price: 599,
+  //   description: "The Huawei P40 with Kirin 990 and 50MP triple camera.",
+  //   imgUrl: "src/assets/images/Mobiles/46.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 47,
+  //   brand: "ZTE",
+  //   model: "ZTE Axon 30 Ultra",
+  //   price: 599,
+  //   description:
+  //     "The ZTE Axon 30 Ultra with Snapdragon 888 and 144Hz AMOLED display.",
+  //   imgUrl: "src/assets/images/Mobiles/47.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 48,
+  //   brand: "Lenovo",
+  //   model: "Lenovo Legion Phone Duel",
+  //   price: 799,
+  //   description:
+  //     "The Lenovo Legion Phone Duel with Snapdragon 865+ and 144Hz AMOLED display.",
+  //   imgUrl: "src/assets/images/Mobiles/48.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 49,
+  //   brand: "Meizu",
+  //   model: "Meizu 18 Pro",
+  //   price: 699,
+  //   description:
+  //     "The Meizu 18 Pro with Snapdragon 888 and 120Hz AMOLED display.",
+  //   imgUrl: "src/assets/images/Mobiles/49.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 50,
+  //   brand: "TCL",
+  //   model: "TCL 20 Pro 5G",
+  //   price: 499,
+  //   description: "The TCL 20 Pro 5G with Snapdragon 750G and 48MP quad camera.",
+  //   imgUrl: "src/assets/images/Mobiles/50.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 51,
+  //   brand: "Infinix",
+  //   model: "Infinix Zero X Pro",
+  //   price: 399,
+  //   description:
+  //     "The Infinix Zero X Pro with MediaTek Helio G95 and 108MP camera.",
+  //   imgUrl: "src/assets/images/Mobiles/51.png",
+  //   quantity: 1,
+  // },
+  // {
+  //   id: 52,
+  //   brand: "Poco",
+  //   model: "Poco F3 GT",
+  //   price: 499,
+  //   description:
+  //     "The Poco F3 GT with MediaTek Dimensity 1200 and 120Hz AMOLED display.",
+  //   imgUrl: "src/assets/images/Mobiles/52.png",
+  //   quantity: 1,
+  // },
 ];

@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from "react";
 import RightGadget from "../RightGadget/RightGadget";
-import "./GadgetPage.css";
+// import "./GadgetPage.css";
 
 const GadgetPage = ({ dataList, index }) => {
   const [selectedItems, setSelectedItems] = useState([]);
 
   useEffect(() => {
-    // Reset selected items when the category changes
     setSelectedItems([]);
   }, [index]);
 
@@ -42,14 +41,15 @@ const GadgetPage = ({ dataList, index }) => {
 
   console.log(selectedItems);
   return (
-    <div className="gadget-container">
-      <div className="category">
+    <div className="flex justify-between p-5 bg-[#f9f9f9] w-full">
+      <div className="mt-5 w-1/4">
         {uniqueLabels.map((label) => (
-          <li className="check-item" key={label}>
+          <li className="list-none mb-2" key={label}>
             <input
               id={label}
               type="checkbox"
               name="name"
+              className="mr-2"
               onChange={(event) => {
                 const item = dataList[index].find((item) =>
                   item.product === "Book"
@@ -63,7 +63,7 @@ const GadgetPage = ({ dataList, index }) => {
           </li>
         ))}
       </div>
-      <RightGadget gadgetData={selectedItems} />
+      <RightGadget gadgetData={selectedItems} itemList={dataList[index]} />
     </div>
   );
 };

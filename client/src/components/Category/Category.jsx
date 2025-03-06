@@ -1,18 +1,22 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./Category.css";
 
 const Category = ({ gadgetsList }) => {
   return (
-    <div className="category-container">
-      <h2>Categories</h2>
-      <ul className="category-list">
+    <div>
+      <ul className="flex justify-between items-center p-4 overflow-x-scroll scrollbar-hide">
         {gadgetsList.map((gadget, index) => (
-          <li key={index} className="category-item">
-            <Link to={`/${gadget}`}>{gadget}</Link>
-          </li>
+          <Link to={`/${gadget}`}>
+            <li
+              key={index}
+              className="border-[#000]  rounded-md bg-blue-500 text-white p-2 m-2 hover:text-black"
+            >
+              {gadget}
+            </li>
+          </Link>
         ))}
       </ul>
+      <hr className="border border-black mx-4" />
     </div>
   );
 };

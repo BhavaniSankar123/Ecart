@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
 import { useState, useEffect } from "react";
-import "./App.css";
+import "./index.css";
+
 import GadgetPage from "./components/GadgetPage/GadgetPage";
 import Login from "./components/Login/Login";
 import Header from "./components/Header/Header";
@@ -23,18 +24,21 @@ import { MensData } from "./assets/ProductsData/MensData";
 import { WomenData } from "./assets/ProductsData/WomenData";
 import { SpeakersData } from "./assets/ProductsData/SpeakersData";
 import { TVData } from "./assets/ProductsData/TVData";
+import { WatchesData } from "./assets/ProductsData/WatchesData";
+import { ShoesData } from "./assets/ProductsData/ShoesData";
 
 const gadgetsList = [
   "Mobiles",
   "Computers",
   "Furniture",
   "Kitchen",
-  "Mens Wear",
-  "Womens Wear",
+  "Mens-Wear",
+  "Womens-Wear",
   "Books",
   "Fridge",
   "AC",
   "Tv's",
+  "Shoes",
   "Watches",
   "Speakers",
 ];
@@ -50,7 +54,8 @@ const dataList = [
   FridgeData,
   ACData,
   TVData,
-  TVData,
+  ShoesData,
+  WatchesData,
   SpeakersData,
 ];
 
@@ -81,9 +86,11 @@ function AppContent({ login, setLogin }) {
   return (
     <>
       {location.pathname !== "/login" && location.pathname !== "/register" && (
-        <Header login={login} setLogin={setLogin} />
+        <>
+          <Header login={login} setLogin={setLogin} />
+          <Category gadgetsList={gadgetsList} />
+        </>
       )}
-      <Category gadgetsList={gadgetsList} />
       <Routes>
         <Route path="/register" element={<Signup />} />
         <Route path="/" element={<Home dataList={dataList} />} />
