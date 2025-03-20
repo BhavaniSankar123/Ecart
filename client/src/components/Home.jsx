@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
-import Gadget from "../Gadget/Gadget";
+import Gadget from "./Gadget";
 // import "./Home.css";
-import { GadgetsContext } from "../contexts/GadgetProvider";
+import { GadgetsContext } from "./contexts/GadgetProvider";
 
 const Home = ({ dataList }) => {
   const gadgetsList = useContext(GadgetsContext);

@@ -1,11 +1,12 @@
 import React, { useContext } from "react";
 import { Link } from "react-router-dom";
 import { FaShoppingCart } from "react-icons/fa";
-import { AddCartContext } from "../contexts/AddCartProvider";
+import { AddCartContext } from "./contexts/AddCartProvider";
+import { CartContext } from "./contexts/CartProvider";
 
 const Header = ({ login, setLogin }) => {
   const { cartCount } = useContext(AddCartContext);
-
+  const {cart} = useContext(CartContext)
   const handleLogout = () => {
     setLogin(false);
     localStorage.setItem("login", "false");
@@ -51,9 +52,9 @@ const Header = ({ login, setLogin }) => {
       </div>
       <Link to="/cart" className="relative">
         <FaShoppingCart className="text-2xl" />
-        {cartCount > 0 && (
+        {cart.length > 0 && (
           <span className="absolute -top-2 -right-2 inline-flex items-center justify-center px-2 py-1 text-sm font-bold leading-none bg-white rounded-full text-red-600">
-            {cartCount}
+            {cart.length}
           </span>
         )}
       </Link>

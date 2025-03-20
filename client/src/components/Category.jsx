@@ -6,7 +6,7 @@ const Category = ({ gadgetsList }) => {
     <div>
       <ul className="flex justify-between items-center p-4 overflow-x-scroll scrollbar-hide">
         {gadgetsList.map((gadget, index) => (
-          <Link to={`/${gadget}`}>
+          <Link to={`/${gadget}`} key={index}>
             <li
               key={index}
               className="border-[#000]  rounded-md bg-blue-500 text-white p-2 m-2 hover:text-black"

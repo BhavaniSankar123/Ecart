@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import RightGadget from "../RightGadget/RightGadget";
+import RightGadget from "./RightGadget";
 // import "./GadgetPage.css";
 
 const GadgetPage = ({ dataList, index }) => {

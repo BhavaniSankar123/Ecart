@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
 import { Link } from "react-router-dom";
-import "./Gadget.css";
+// import "./Gadget.css";
 
 Modal.setAppElement("#root");
 
