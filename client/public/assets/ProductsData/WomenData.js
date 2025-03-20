@@ -5,7 +5,7 @@ export const WomenData = [
     model: "Floral Dress",
     price: 50,
     description: "A stylish floral dress from Zara.",
-    imgUrl: "src/assets/images/Womens-Wear/1.png",
+    imgUrl: "/assets/images/Womens-Wear/1.png",
     quantity: 1,
   },
   {
@@ -14,7 +14,7 @@ export const WomenData = [
     model: "Maxi Dress",
     price: 40,
     description: "A comfortable and stylish maxi dress from H&M.",
-    imgUrl: "src/assets/images/Womens-Wear/2.png",
+    imgUrl: "/assets/images/Womens-Wear/2.png",
     quantity: 1,
   },
   {
@@ -23,7 +23,7 @@ export const WomenData = [
     model: "Evening Gown",
     price: 1200,
     description: "A luxurious evening gown from Gucci.",
-    imgUrl: "src/assets/images/Womens-Wear/3.png",
+    imgUrl: "/assets/images/Womens-Wear/3.png",
     quantity: 1,
   },
   {
@@ -32,7 +32,7 @@ export const WomenData = [
     model: "Sports Dress",
     price: 90,
     description: "A classic and comfortable sports dress from Nike.",
-    imgUrl: "src/assets/images/Womens-Wear/4.png",
+    imgUrl: "/assets/images/Womens-Wear/4.png",
     quantity: 1,
   },
   {
@@ -41,7 +41,7 @@ export const WomenData = [
     model: "Cocktail Dress",
     price: 100,
     description: "A timeless and iconic cocktail dress from Chanel.",
-    imgUrl: "src/assets/images/Womens-Wear/5.png",
+    imgUrl: "/assets/images/Womens-Wear/5.png",
     quantity: 1,
   },
   {
@@ -50,7 +50,7 @@ export const WomenData = [
     model: "Summer Dress",
     price: 250,
     description: "A stylish and spacious summer dress from Michael Kors.",
-    imgUrl: "src/assets/images/Womens-Wear/6.png",
+    imgUrl: "/assets/images/Womens-Wear/6.png",
     quantity: 1,
   },
   {
@@ -59,7 +59,7 @@ export const WomenData = [
     model: "Party Dress",
     price: 300,
     description: "Chic and fashionable party dress from Prada.",
-    imgUrl: "src/assets/images/Womens-Wear/7.png",
+    imgUrl: "/assets/images/Womens-Wear/7.png",
     quantity: 1,
   },
   {
@@ -68,7 +68,7 @@ export const WomenData = [
     model: "Casual Dress",
     price: 500,
     description: "A classic casual dress from Louis Vuitton.",
-    imgUrl: "src/assets/images/Womens-Wear/8.png",
+    imgUrl: "/assets/images/Womens-Wear/8.png",
     quantity: 1,
   },
   {
@@ -77,7 +77,7 @@ export const WomenData = [
     model: "Beach Dress",
     price: 200,
     description: "Stylish and comfortable beach dress from Tory Burch.",
-    imgUrl: "src/assets/images/Womens-Wear/9.png",
+    imgUrl: "/assets/images/Womens-Wear/9.png",
     quantity: 1,
   },
   {
@@ -86,7 +86,7 @@ export const WomenData = [
     model: "Office Dress",
     price: 350,
     description: "A chic and versatile office dress from Kate Spade.",
-    imgUrl: "src/assets/images/Womens-Wear/10.png",
+    imgUrl: "/assets/images/Womens-Wear/10.png",
     quantity: 1,
   },
   {
@@ -95,7 +95,7 @@ export const WomenData = [
     model: "Trench Dress",
     price: 400,
     description: "A classic trench dress from Burberry.",
-    imgUrl: "src/assets/images/Womens-Wear/11.png",
+    imgUrl: "/assets/images/Womens-Wear/11.png",
     quantity: 1,
   },
   {
@@ -104,7 +104,7 @@ export const WomenData = [
     model: "Formal Dress",
     price: 800,
     description: "Elegant and stylish formal dress from Valentino.",
-    imgUrl: "src/assets/images/Womens-Wear/12.png",
+    imgUrl: "/assets/images/Womens-Wear/12.png",
     quantity: 1,
   },
   {
@@ -113,7 +113,7 @@ export const WomenData = [
     model: "Designer Dress",
     price: 4000,
     description: "An iconic and luxurious designer dress from Dior.",
-    imgUrl: "src/assets/images/Womens-Wear/13.png",
+    imgUrl: "/assets/images/Womens-Wear/13.png",
     quantity: 1,
   },
   {
@@ -122,7 +122,7 @@ export const WomenData = [
     model: "Evening Dress",
     price: 600,
     description: "Sophisticated and glamorous evening dress from Jimmy Choo.",
-    imgUrl: "src/assets/images/Womens-Wear/14.png",
+    imgUrl: "/assets/images/Womens-Wear/14.png",
     quantity: 1,
   },
   {
@@ -131,7 +131,7 @@ export const WomenData = [
     model: "Mini Dress",
     price: 2000,
     description: "A stylish and edgy mini dress from Balenciaga.",
-    imgUrl: "src/assets/images/Womens-Wear/15.png",
+    imgUrl: "/assets/images/Womens-Wear/15.png",
     quantity: 1,
   },
   {
@@ -140,7 +140,7 @@ export const WomenData = [
     model: "Gothic Dress",
     price: 500,
     description: "Fashionable and trendy gothic dress from Alexander McQueen.",
-    imgUrl: "src/assets/images/Womens-Wear/16.png",
+    imgUrl: "/assets/images/Womens-Wear/16.png",
     quantity: 1,
   },
   {
@@ -149,7 +149,7 @@ export const WomenData = [
     model: "Luxury Dress",
     price: 3000,
     description: "A luxurious and sophisticated dress from Fendi.",
-    imgUrl: "src/assets/images/Womens-Wear/17.png",
+    imgUrl: "/assets/images/Womens-Wear/17.png",
     quantity: 1,
   },
   {
@@ -158,7 +158,7 @@ export const WomenData = [
     model: "Elegant Dress",
     price: 2500,
     description: "A classic and elegant dress from Givenchy.",
-    imgUrl: "src/assets/images/Womens-Wear/18.png",
+    imgUrl: "/assets/images/Womens-Wear/18.png",
     quantity: 1,
   },
   {
@@ -167,7 +167,7 @@ export const WomenData = [
     model: "Eco Dress",
     price: 1000,
     description: "A stylish and sustainable eco dress from Stella McCartney.",
-    imgUrl: "src/assets/images/Womens-Wear/19.png",
+    imgUrl: "/assets/images/Womens-Wear/19.png",
     quantity: 1,
   },
   {
@@ -176,7 +176,7 @@ export const WomenData = [
     model: "Designer Dress",
     price: 1500,
     description: "A chic and elegant designer dress from Dolce & Gabbana.",
-    imgUrl: "src/assets/images/Womens-Wear/20.png",
+    imgUrl: "/assets/images/Womens-Wear/20.png",
     quantity: 1,
   },
   {
@@ -185,7 +185,7 @@ export const WomenData = [
     model: "Vintage Dress",
     price: 1200,
     description: "A luxurious and vintage dress from Gucci.",
-    imgUrl: "src/assets/images/Womens-Wear/21.png",
+    imgUrl: "/assets/images/Womens-Wear/21.png",
     quantity: 1,
   },
   {
@@ -194,7 +194,7 @@ export const WomenData = [
     model: "Couture Dress",
     price: 1000,
     description: "An iconic and couture dress from Chanel.",
-    imgUrl: "src/assets/images/Womens-Wear/22.png",
+    imgUrl: "/assets/images/Womens-Wear/22.png",
     quantity: 1,
   },
   {
@@ -203,7 +203,7 @@ export const WomenData = [
     model: "Runway Dress",
     price: 2000,
     description: "A stylish and trendy runway dress from Versace.",
-    imgUrl: "src/assets/images/Womens-Wear/23.png",
+    imgUrl: "/assets/images/Womens-Wear/23.png",
     quantity: 1,
   },
   {
@@ -212,7 +212,7 @@ export const WomenData = [
     model: "Fashion Dress",
     price: 3000,
     description: "Chic and fashionable dress from Prada.",
-    imgUrl: "src/assets/images/Womens-Wear/24.png",
+    imgUrl: "/assets/images/Womens-Wear/24.png",
     quantity: 1,
   },
   {
@@ -221,7 +221,7 @@ export const WomenData = [
     model: "Luxury Dress",
     price: 5000,
     description: "A luxurious and classic dress from Louis Vuitton.",
-    imgUrl: "src/assets/images/Womens-Wear/25.png",
+    imgUrl: "/assets/images/Womens-Wear/25.png",
     quantity: 1,
   },
   {
@@ -230,7 +230,7 @@ export const WomenData = [
     model: "Chic Dress",
     price: 2000,
     description: "Stylish and chic dress from Tory Burch.",
-    imgUrl: "src/assets/images/Womens-Wear/26.png",
+    imgUrl: "/assets/images/Womens-Wear/26.png",
     quantity: 1,
   },
   {
@@ -239,7 +239,7 @@ export const WomenData = [
     model: "Stylish Dress",
     price: 3500,
     description: "A chic and stylish dress from Kate Spade.",
-    imgUrl: "src/assets/images/Womens-Wear/27.png",
+    imgUrl: "/assets/images/Womens-Wear/27.png",
     quantity: 1,
   },
   {
@@ -248,7 +248,7 @@ export const WomenData = [
     model: "Classic Dress",
     price: 4000,
     description: "A classic and timeless dress from Burberry.",
-    imgUrl: "src/assets/images/Womens-Wear/28.png",
+    imgUrl: "/assets/images/Womens-Wear/28.png",
     quantity: 1,
   },
   {
@@ -257,7 +257,7 @@ export const WomenData = [
     model: "Elegant Dress",
     price: 8000,
     description: "Elegant and sophisticated dress from Valentino.",
-    imgUrl: "src/assets/images/Womens-Wear/29.png",
+    imgUrl: "/assets/images/Womens-Wear/29.png",
     quantity: 1,
   },
   {
@@ -266,7 +266,7 @@ export const WomenData = [
     model: "Iconic Dress",
     price: 4000,
     description: "An iconic and luxurious dress from Dior.",
-    imgUrl: "src/assets/images/Womens-Wear/30.png",
+    imgUrl: "/assets/images/Womens-Wear/30.png",
     quantity: 1,
   },
   {
@@ -275,7 +275,7 @@ export const WomenData = [
     model: "Vintage Dress",
     price: 6000,
     description: "Sophisticated and glamorous vintage dress from Jimmy Choo.",
-    imgUrl: "src/assets/images/Womens-Wear/31.png",
+    imgUrl: "/assets/images/Womens-Wear/31.png",
     quantity: 1,
   },
   {
@@ -284,7 +284,7 @@ export const WomenData = [
     model: "Fashion Dress",
     price: 2000,
     description: "A stylish and edgy fashion dress from Balenciaga.",
-    imgUrl: "src/assets/images/Womens-Wear/32.png",
+    imgUrl: "/assets/images/Womens-Wear/32.png",
     quantity: 1,
   },
 ];

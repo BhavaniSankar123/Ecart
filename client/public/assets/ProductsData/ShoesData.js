@@ -6,7 +6,7 @@ export const ShoesData = [
     price: 180,
     description:
       "The Ultraboost 21 is a high-performance running shoe with a responsive Boost midsole.",
-    imgUrl: "src/assets/images/Shoes/1.png",
+    imgUrl: "/assets/images/Shoes/1.png",
     quantity: 1,
   },
   {
@@ -16,7 +16,7 @@ export const ShoesData = [
     price: 140,
     description:
       "The NMD_R1 is a casual sneaker with a Boost midsole and a flexible knit upper.",
-    imgUrl: "src/assets/images/Shoes/2.png",
+    imgUrl: "/assets/images/Shoes/2.png",
     quantity: 1,
   },
   {
@@ -26,7 +26,7 @@ export const ShoesData = [
     price: 80,
     description:
       "The Stan Smith is a classic tennis shoe with a leather upper and a rubber cupsole.",
-    imgUrl: "src/assets/images/Shoes/3.png",
+    imgUrl: "/assets/images/Shoes/3.png",
     quantity: 1,
   },
   {
@@ -36,7 +36,7 @@ export const ShoesData = [
     price: 85,
     description:
       "The Superstar is a classic sneaker with a leather upper and a rubber shell toe.",
-    imgUrl: "src/assets/images/Shoes/4.png",
+    imgUrl: "/assets/images/Shoes/4.png",
     quantity: 1,
   },
   {
@@ -46,7 +46,7 @@ export const ShoesData = [
     price: 90,
     description:
       "The Air Force 1 is a classic sneaker with a leather upper and an Air-Sole unit.",
-    imgUrl: "src/assets/images/Shoes/5.png",
+    imgUrl: "/assets/images/Shoes/5.png",
     quantity: 1,
   },
   {
@@ -56,7 +56,7 @@ export const ShoesData = [
     price: 120,
     description:
       "The Air Max 90 is a classic sneaker with a leather upper and a visible Max Air unit.",
-    imgUrl: "src/assets/images/Shoes/6.png",
+    imgUrl: "/assets/images/Shoes/6.png",
     quantity: 1,
   },
   {
@@ -66,7 +66,7 @@ export const ShoesData = [
     price: 160,
     description:
       "The React Infinity Run Flyknit is a high-performance running shoe with a React midsole.",
-    imgUrl: "src/assets/images/Shoes/7.png",
+    imgUrl: "/assets/images/Shoes/7.png",
     quantity: 1,
   },
   {
@@ -76,7 +76,7 @@ export const ShoesData = [
     price: 120,
     description:
       "The Air Zoom Pegasus 37 is a high-performance running shoe with a Zoom Air unit.",
-    imgUrl: "src/assets/images/Shoes/8.png",
+    imgUrl: "/assets/images/Shoes/8.png",
     quantity: 1,
   },
   {
@@ -86,7 +86,7 @@ export const ShoesData = [
     price: 65,
     description:
       "The Suede Classic+ is a casual sneaker with a suede upper and a rubber cupsole.",
-    imgUrl: "src/assets/images/Shoes/9.png",
+    imgUrl: "/assets/images/Shoes/9.png",
     quantity: 1,
   },
   {
@@ -96,7 +96,7 @@ export const ShoesData = [
     price: 80,
     description:
       "The Cali is a casual sneaker with a leather upper and a rubber cupsole.",
-    imgUrl: "src/assets/images/Shoes/10.png",
+    imgUrl: "/assets/images/Shoes/10.png",
     quantity: 1,
   },
   {
@@ -106,7 +106,7 @@ export const ShoesData = [
     price: 110,
     description:
       "The RS-X³ is a casual sneaker with a mesh upper and a rubber cupsole.",
-    imgUrl: "src/assets/images/Shoes/11.png",
+    imgUrl: "/assets/images/Shoes/11.png",
     quantity: 1,
   },
   {
@@ -116,7 +116,7 @@ export const ShoesData = [
     price: 80,
     description:
       "The Future Rider is a casual sneaker with a nylon upper and a rubber cupsole.",
-    imgUrl: "src/assets/images/Shoes/12.png",
+    imgUrl: "/assets/images/Shoes/12.png",
     quantity: 1,
   },
   {
@@ -126,7 +126,7 @@ export const ShoesData = [
     price: 75,
     description:
       "The Classic Leather is a casual sneaker with a leather upper and a rubber cupsole.",
-    imgUrl: "src/assets/images/Shoes/13.png",
+    imgUrl: "/assets/images/Shoes/13.png",
     quantity: 1,
   },
   {
@@ -136,7 +136,7 @@ export const ShoesData = [
     price: 70,
     description:
       "The Club C 85 is a casual sneaker with a leather upper and a rubber cupsole.",
-    imgUrl: "src/assets/images/Shoes/14.png",
+    imgUrl: "/assets/images/Shoes/14.png",
     quantity: 1,
   },
   {
@@ -146,7 +146,7 @@ export const ShoesData = [
     price: 130,
     description:
       "The Nano X is a high-performance training shoe with a Flexweave upper and a rubber outsole.",
-    imgUrl: "src/assets/images/Shoes/15.png",
+    imgUrl: "/assets/images/Shoes/15.png",
     quantity: 1,
   },
   {
@@ -156,7 +156,7 @@ export const ShoesData = [
     price: 120,
     description:
       "The Zig Kinetica is a high-performance running shoe with a Zig Energy Shell midsole.",
-    imgUrl: "src/assets/images/Shoes/16.png",
+    imgUrl: "/assets/images/Shoes/16.png",
     quantity: 1,
   },
   {
@@ -166,7 +166,7 @@ export const ShoesData = [
     price: 150,
     description:
       "The HOVR Phantom 2 is a high-performance running shoe with a HOVR midsole and a compression mesh upper.",
-    imgUrl: "src/assets/images/Shoes/17.png",
+    imgUrl: "/assets/images/Shoes/17.png",
     quantity: 1,
   },
   {
@@ -176,7 +176,7 @@ export const ShoesData = [
     price: 110,
     description:
       "The HOVR Sonic 6 is a high-performance running shoe with a HOVR midsole and a mesh upper.",
-    imgUrl: "src/assets/images/Shoes/18.png",
+    imgUrl: "/assets/images/Shoes/18.png",
     quantity: 1,
   },
   {
@@ -186,7 +186,7 @@ export const ShoesData = [
     price: 70,
     description:
       "The Charged Assert 8 is a high-performance running shoe with a Charged Cushioning midsole and a leather upper.",
-    imgUrl: "src/assets/images/Shoes/19.png",
+    imgUrl: "/assets/images/Shoes/19.png",
     quantity: 1,
   },
   {
@@ -196,7 +196,7 @@ export const ShoesData = [
     price: 60,
     description:
       "The ChargedPursuit 2 is a high-performance running shoe with a Charged Cushioning midsole and a mesh upper.",
-    imgUrl: "src/assets/images/Shoes/20.png",
+    imgUrl: "/assets/images/Shoes/20.png",
     quantity: 1,
   },
   {
@@ -206,7 +206,7 @@ export const ShoesData = [
     price: 60,
     description:
       "The Old Skool is a casual sneaker with a canvas upper and a rubber waffle outsole.",
-    imgUrl: "src/assets/images/Shoes/21.png",
+    imgUrl: "/assets/images/Shoes/21.png",
     quantity: 1,
   },
   {
@@ -216,7 +216,7 @@ export const ShoesData = [
     price: 120,
     description:
       "The Air Zoom Structure 23 is a high-performance running shoe with a Zoom Air unit.",
-    imgUrl: "src/assets/images/Shoes/22.png",
+    imgUrl: "/assets/images/Shoes/22.png",
     quantity: 1,
   },
   {
@@ -226,7 +226,7 @@ export const ShoesData = [
     price: 100,
     description:
       "The Ignite Flash Evoknit is a casual sneaker with a knit upper and a rubber outsole.",
-    imgUrl: "src/assets/images/Shoes/23.png",
+    imgUrl: "/assets/images/Shoes/23.png",
     quantity: 1,
   },
   {
@@ -236,7 +236,7 @@ export const ShoesData = [
     price: 140,
     description:
       "The Floatride Run Fast 2 is a high-performance running shoe with a Floatride midsole.",
-    imgUrl: "src/assets/images/Shoes/24.png",
+    imgUrl: "/assets/images/Shoes/24.png",
     quantity: 1,
   },
   {
@@ -246,7 +246,7 @@ export const ShoesData = [
     price: 150,
     description:
       "The HOVR Infinite 3 is a high-performance running shoe with a HOVR midsole.",
-    imgUrl: "src/assets/images/Shoes/25.png",
+    imgUrl: "/assets/images/Shoes/25.png",
     quantity: 1,
   },
   {
@@ -256,7 +256,7 @@ export const ShoesData = [
     price: 150,
     description:
       "The Fresh Foam 1080v12 is a high-performance running shoe with Fresh Foam cushioning.",
-    imgUrl: "src/assets/images/Shoes/26.png",
+    imgUrl: "/assets/images/Shoes/26.png",
     quantity: 1,
   },
   {
@@ -266,7 +266,7 @@ export const ShoesData = [
     price: 120,
     description:
       "The Gel-Cumulus 22 is a high-performance running shoe with Gel cushioning.",
-    imgUrl: "src/assets/images/Shoes/27.png",
+    imgUrl: "/assets/images/Shoes/27.png",
     quantity: 1,
   },
   {
@@ -276,7 +276,7 @@ export const ShoesData = [
     price: 130,
     description:
       "The Adrenaline GTS 21 is a high-performance running shoe with DNA LOFT cushioning.",
-    imgUrl: "src/assets/images/Shoes/28.png",
+    imgUrl: "/assets/images/Shoes/28.png",
     quantity: 1,
   },
   {
@@ -286,7 +286,7 @@ export const ShoesData = [
     price: 150,
     description:
       "The Triumph 18 is a high-performance running shoe with PWRRUN+ cushioning.",
-    imgUrl: "src/assets/images/Shoes/29.png",
+    imgUrl: "/assets/images/Shoes/29.png",
     quantity: 1,
   },
   {
@@ -296,7 +296,7 @@ export const ShoesData = [
     price: 140,
     description:
       "The Terrex Swift R3 is a high-performance hiking shoe with a Continental rubber outsole.",
-    imgUrl: "src/assets/images/Shoes/30.png",
+    imgUrl: "/assets/images/Shoes/30.png",
     quantity: 1,
   },
   {
@@ -305,7 +305,7 @@ export const ShoesData = [
     model: "574",
     price: 80,
     description: "The 574 is a classic sneaker with a suede and mesh upper.",
-    imgUrl: "src/assets/images/Shoes/31.png",
+    imgUrl: "/assets/images/Shoes/31.png",
     quantity: 1,
   },
   {
@@ -315,7 +315,7 @@ export const ShoesData = [
     price: 150,
     description:
       "The Gel-Nimbus 23 is a high-performance running shoe with Gel cushioning.",
-    imgUrl: "src/assets/images/Shoes/32.png",
+    imgUrl: "/assets/images/Shoes/32.png",
     quantity: 1,
   },
 ];

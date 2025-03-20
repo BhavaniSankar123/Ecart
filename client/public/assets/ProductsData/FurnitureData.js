@@ -5,7 +5,7 @@ export const FurnitureData = [
     model: "Ektorp Sofa",
     price: 499,
     description: "A comfortable and stylish sofa from Ikea.",
-    imgUrl: "src/assets/images/Furniture/1.png",
+    imgUrl: "/assets/images/Furniture/1.png",
     quantity: 1,
   },
   {
@@ -14,7 +14,7 @@ export const FurnitureData = [
     model: "Darcy Sofa",
     price: 599,
     description: "A contemporary sofa with plush cushions.",
-    imgUrl: "src/assets/images/Furniture/2.png",
+    imgUrl: "/assets/images/Furniture/2.png",
     quantity: 1,
   },
   {
@@ -23,7 +23,7 @@ export const FurnitureData = [
     model: "Mid-Century Bed",
     price: 899,
     description: "A mid-century modern bed with a sleek design.",
-    imgUrl: "src/assets/images/Furniture/3.png",
+    imgUrl: "/assets/images/Furniture/3.png",
     quantity: 1,
   },
   {
@@ -32,7 +32,7 @@ export const FurnitureData = [
     model: "Farmhouse Table",
     price: 799,
     description: "A rustic farmhouse table with a solid wood construction.",
-    imgUrl: "src/assets/images/Furniture/4.png",
+    imgUrl: "/assets/images/Furniture/4.png",
     quantity: 1,
   },
   {
@@ -41,7 +41,7 @@ export const FurnitureData = [
     model: "Lark Manor Armchair",
     price: 299,
     description: "A comfortable armchair with a classic design.",
-    imgUrl: "src/assets/images/Furniture/5.png",
+    imgUrl: "/assets/images/Furniture/5.png",
     quantity: 1,
   },
   {
@@ -50,7 +50,7 @@ export const FurnitureData = [
     model: "Lounge II Sectional",
     price: 1999,
     description: "A spacious and modern sectional sofa.",
-    imgUrl: "src/assets/images/Furniture/6.png",
+    imgUrl: "/assets/images/Furniture/6.png",
     quantity: 1,
   },
   {
@@ -59,7 +59,7 @@ export const FurnitureData = [
     model: "Mill Coffee Table",
     price: 399,
     description: "A sleek and minimalist coffee table with a marble top.",
-    imgUrl: "src/assets/images/Furniture/7.png",
+    imgUrl: "/assets/images/Furniture/7.png",
     quantity: 1,
   },
   {
@@ -68,7 +68,7 @@ export const FurnitureData = [
     model: "Aeron Chair",
     price: 1395,
     description: "An ergonomic office chair with a modern design.",
-    imgUrl: "src/assets/images/Furniture/8.png",
+    imgUrl: "/assets/images/Furniture/8.png",
     quantity: 1,
   },
   {
@@ -77,7 +77,7 @@ export const FurnitureData = [
     model: "Cloud Sofa",
     price: 3995,
     description: "A luxurious and cloud-like sofa for ultimate comfort.",
-    imgUrl: "src/assets/images/Furniture/9.png",
+    imgUrl: "/assets/images/Furniture/9.png",
     quantity: 1,
   },
   {
@@ -87,7 +87,7 @@ export const FurnitureData = [
     price: 5495,
     description:
       "An iconic and timeless lounge chair designed by Charles and Ray Eames.",
-    imgUrl: "src/assets/images/Furniture/10.png",
+    imgUrl: "/assets/images/Furniture/10.png",
     quantity: 1,
   },
   {
@@ -96,7 +96,7 @@ export const FurnitureData = [
     model: "Tremont Bookcase",
     price: 1999,
     description: "A solid wood bookcase with a rustic and industrial design.",
-    imgUrl: "src/assets/images/Furniture/11.png",
+    imgUrl: "/assets/images/Furniture/11.png",
     quantity: 1,
   },
   {
@@ -105,7 +105,7 @@ export const FurnitureData = [
     model: "Velvet Elowen Chair",
     price: 498,
     description: "A luxurious and elegant velvet chair with a modern design.",
-    imgUrl: "src/assets/images/Furniture/12.png",
+    imgUrl: "/assets/images/Furniture/12.png",
     quantity: 1,
   },
   {
@@ -114,7 +114,7 @@ export const FurnitureData = [
     model: "Amelia Desk",
     price: 299,
     description: "A stylish and compact desk with a mid-century modern design.",
-    imgUrl: "src/assets/images/Furniture/13.png",
+    imgUrl: "/assets/images/Furniture/13.png",
     quantity: 1,
   },
   {
@@ -123,7 +123,7 @@ export const FurnitureData = [
     model: "Riviera Bar Cart",
     price: 498,
     description: "A chic and stylish bar cart with a coastal design.",
-    imgUrl: "src/assets/images/Furniture/14.png",
+    imgUrl: "/assets/images/Furniture/14.png",
     quantity: 1,
   },
   {
@@ -132,7 +132,7 @@ export const FurnitureData = [
     model: "Maeve Dining Chair",
     price: 398,
     description: "A modern and elegant dining chair with a velvet upholstery.",
-    imgUrl: "src/assets/images/Furniture/15.png",
+    imgUrl: "/assets/images/Furniture/15.png",
     quantity: 1,
   },
   {
@@ -141,7 +141,7 @@ export const FurnitureData = [
     model: "Harmony Crib",
     price: 699,
     description: "A modern and stylish crib for your baby's nursery.",
-    imgUrl: "src/assets/images/Furniture/16.png",
+    imgUrl: "/assets/images/Furniture/16.png",
     quantity: 1,
   },
   {
@@ -150,7 +150,7 @@ export const FurnitureData = [
     model: "Soto Chair",
     price: 899,
     description: "A mid-century modern chair with a retro design.",
-    imgUrl: "src/assets/images/Furniture/17.png",
+    imgUrl: "/assets/images/Furniture/17.png",
     quantity: 1,
   },
   {
@@ -159,7 +159,7 @@ export const FurnitureData = [
     model: "Liam Sofa",
     price: 699,
     description: "A modern and stylish sofa with a tufted design.",
-    imgUrl: "src/assets/images/Furniture/18.png",
+    imgUrl: "/assets/images/Furniture/18.png",
     quantity: 1,
   },
   {
@@ -168,7 +168,7 @@ export const FurnitureData = [
     model: "Wyatt Bed",
     price: 1399,
     description: "A modern and minimalist bed with a solid wood construction.",
-    imgUrl: "src/assets/images/Furniture/19.png",
+    imgUrl: "/assets/images/Furniture/19.png",
     quantity: 1,
   },
   {
@@ -178,7 +178,7 @@ export const FurnitureData = [
     price: 1995,
     description:
       "A luxurious and stylish lounge chair with a leather upholstery.",
-    imgUrl: "src/assets/images/Furniture/20.png",
+    imgUrl: "/assets/images/Furniture/20.png",
     quantity: 1,
   },
 ];

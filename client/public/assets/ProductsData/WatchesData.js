@@ -5,7 +5,7 @@ export const WatchesData = [
     model: "G-Shock",
     price: 129,
     description: "A stylish G-Shock watch with a built-in GPS.",
-    imgUrl: "src/assets/images/Watches/1.png",
+    imgUrl: "/assets/images/Watches/1.png",
     quantity: 1,
   },
   {
@@ -14,7 +14,7 @@ export const WatchesData = [
     model: "Watch Series 6",
     price: 1199,
     description: "A sleek and stylish Apple Watch.",
-    imgUrl: "src/assets/images/Watches/2.png",
+    imgUrl: "/assets/images/Watches/2.png",
     quantity: 1,
   },
   {
@@ -23,7 +23,7 @@ export const WatchesData = [
     model: "Forerunner 945",
     price: 599,
     description: "A high-end Garmin watch for serious athletes.",
-    imgUrl: "src/assets/images/Watches/3.png",
+    imgUrl: "/assets/images/Watches/3.png",
     quantity: 1,
   },
   {
@@ -32,7 +32,7 @@ export const WatchesData = [
     model: "Versa 3",
     price: 229,
     description: "A fitness-focused smartwatch from Fitbit.",
-    imgUrl: "src/assets/images/Watches/4.png",
+    imgUrl: "/assets/images/Watches/4.png",
     quantity: 1,
   },
   {
@@ -41,7 +41,7 @@ export const WatchesData = [
     model: "Galaxy Watch 3",
     price: 399,
     description: "A premium smartwatch from Samsung.",
-    imgUrl: "src/assets/images/Watches/5.png",
+    imgUrl: "/assets/images/Watches/5.png",
     quantity: 1,
   },
   {
@@ -50,7 +50,7 @@ export const WatchesData = [
     model: "Gen 5",
     price: 299,
     description: "A stylish smartwatch from Fossil.",
-    imgUrl: "src/assets/images/Watches/6.png",
+    imgUrl: "/assets/images/Watches/6.png",
     quantity: 1,
   },
   {
@@ -59,7 +59,7 @@ export const WatchesData = [
     model: "Watch GT 2 Pro",
     price: 299,
     description: "A high-end smartwatch from Huawei.",
-    imgUrl: "src/assets/images/Watches/7.png",
+    imgUrl: "/assets/images/Watches/7.png",
     quantity: 1,
   },
   {
@@ -68,7 +68,7 @@ export const WatchesData = [
     model: "Mi Watch",
     price: 99,
     description: "An affordable smartwatch from Xiaomi.",
-    imgUrl: "src/assets/images/Watches/8.png",
+    imgUrl: "/assets/images/Watches/8.png",
     quantity: 1,
   },
   {
@@ -77,7 +77,7 @@ export const WatchesData = [
     model: "GTS 2",
     price: 179,
     description: "A budget-friendly smartwatch from Amazfit.",
-    imgUrl: "src/assets/images/Watches/9.png",
+    imgUrl: "/assets/images/Watches/9.png",
     quantity: 1,
   },
   {
@@ -86,7 +86,7 @@ export const WatchesData = [
     model: "Vantage V2",
     price: 499,
     description: "A high-end sports watch from Polar.",
-    imgUrl: "src/assets/images/Watches/10.png",
+    imgUrl: "/assets/images/Watches/10.png",
     quantity: 1,
   },
   {
@@ -95,7 +95,7 @@ export const WatchesData = [
     model: "9 Baro",
     price: 599,
     description: "A premium sports watch from Suunto.",
-    imgUrl: "src/assets/images/Watches/11.png",
+    imgUrl: "/assets/images/Watches/11.png",
     quantity: 1,
   },
   {
@@ -104,7 +104,7 @@ export const WatchesData = [
     model: "Ironman R300",
     price: 129,
     description: "A rugged sports watch from Timex.",
-    imgUrl: "src/assets/images/Watches/12.png",
+    imgUrl: "/assets/images/Watches/12.png",
     quantity: 1,
   },
   {
@@ -113,7 +113,7 @@ export const WatchesData = [
     model: "Pro Trek WSD-F30",
     price: 549,
     description: "A rugged outdoor watch from Casio.",
-    imgUrl: "src/assets/images/Watches/13.png",
+    imgUrl: "/assets/images/Watches/13.png",
     quantity: 1,
   },
   {
@@ -122,7 +122,7 @@ export const WatchesData = [
     model: "Mission",
     price: 399,
     description: "A rugged smartwatch from Nixon.",
-    imgUrl: "src/assets/images/Watches/14.png",
+    imgUrl: "/assets/images/Watches/14.png",
     quantity: 1,
   },
   {
@@ -131,7 +131,7 @@ export const WatchesData = [
     model: "Connected",
     price: 1999,
     description: "A luxury smartwatch from Tag Heuer.",
-    imgUrl: "src/assets/images/Watches/15.png",
+    imgUrl: "/assets/images/Watches/15.png",
     quantity: 1,
   },
   {
@@ -140,7 +140,7 @@ export const WatchesData = [
     model: "Connect 2.0",
     price: 495,
     description: "A stylish smartwatch from Movado.",
-    imgUrl: "src/assets/images/Watches/16.png",
+    imgUrl: "/assets/images/Watches/16.png",
     quantity: 1,
   },
   {
@@ -149,7 +149,7 @@ export const WatchesData = [
     model: "Access Lexington 2",
     price: 350,
     description: "A stylish smartwatch from Michael Kors.",
-    imgUrl: "src/assets/images/Watches/17.png",
+    imgUrl: "/assets/images/Watches/17.png",
     quantity: 1,
   },
   {
@@ -158,7 +158,7 @@ export const WatchesData = [
     model: "On Fadelite",
     price: 275,
     description: "A stylish smartwatch from Diesel.",
-    imgUrl: "src/assets/images/Watches/18.png",
+    imgUrl: "/assets/images/Watches/18.png",
     quantity: 1,
   },
   {
@@ -167,7 +167,7 @@ export const WatchesData = [
     model: "Smartwatch 3",
     price: 395,
     description: "A stylish smartwatch from Emporio Armani.",
-    imgUrl: "src/assets/images/Watches/19.png",
+    imgUrl: "/assets/images/Watches/19.png",
     quantity: 1,
   },
   {
@@ -176,7 +176,7 @@ export const WatchesData = [
     model: "Scallop 2",
     price: 295,
     description: "A stylish smartwatch from Kate Spade.",
-    imgUrl: "src/assets/images/Watches/20.png",
+    imgUrl: "/assets/images/Watches/20.png",
     quantity: 1,
   },
   {
@@ -185,7 +185,7 @@ export const WatchesData = [
     model: "Falster 3",
     price: 295,
     description: "A stylish smartwatch from Skagen.",
-    imgUrl: "src/assets/images/Watches/21.png",
+    imgUrl: "/assets/images/Watches/21.png",
     quantity: 1,
   },
   {
@@ -194,7 +194,7 @@ export const WatchesData = [
     model: "Pro 3",
     price: 299,
     description: "A stylish smartwatch from Ticwatch.",
-    imgUrl: "src/assets/images/Watches/22.png",
+    imgUrl: "/assets/images/Watches/22.png",
     quantity: 1,
   },
   {
@@ -203,7 +203,7 @@ export const WatchesData = [
     model: "Ticwatch GTX",
     price: 59,
     description: "An affordable smartwatch from Mobvoi.",
-    imgUrl: "src/assets/images/Watches/23.png",
+    imgUrl: "/assets/images/Watches/23.png",
     quantity: 1,
   },
   {
@@ -212,7 +212,7 @@ export const WatchesData = [
     model: "Steel HR Sport",
     price: 199,
     description: "A fitness-focused smartwatch from Withings.",
-    imgUrl: "src/assets/images/Watches/24.png",
+    imgUrl: "/assets/images/Watches/24.png",
     quantity: 1,
   },
   {
@@ -221,7 +221,7 @@ export const WatchesData = [
     model: "Bip U Pro",
     price: 69,
     description: "An affordable smartwatch from Amazfit.",
-    imgUrl: "src/assets/images/Watches/25.png",
+    imgUrl: "/assets/images/Watches/25.png",
     quantity: 1,
   },
   {
@@ -230,7 +230,7 @@ export const WatchesData = [
     model: "Ticwatch E3",
     price: 199,
     description: "A budget-friendly smartwatch from Mobvoi.",
-    imgUrl: "src/assets/images/Watches/26.png",
+    imgUrl: "/assets/images/Watches/26.png",
     quantity: 1,
   },
   {
@@ -239,7 +239,7 @@ export const WatchesData = [
     model: "Ticwatch GTH",
     price: 79,
     description: "An affordable smartwatch from Mobvoi.",
-    imgUrl: "src/assets/images/Watches/27.png",
+    imgUrl: "/assets/images/Watches/27.png",
     quantity: 1,
   },
   {
@@ -248,7 +248,7 @@ export const WatchesData = [
     model: "Ticwatch C2+",
     price: 209,
     description: "A stylish smartwatch from Mobvoi.",
-    imgUrl: "src/assets/images/Watches/28.png",
+    imgUrl: "/assets/images/Watches/28.png",
     quantity: 1,
   },
   {
@@ -257,7 +257,7 @@ export const WatchesData = [
     model: "Ticwatch Pro 3 Ultra",
     price: 299,
     description: "A stylish smartwatch from Mobvoi.",
-    imgUrl: "src/assets/images/Watches/29.png",
+    imgUrl: "/assets/images/Watches/29.png",
     quantity: 1,
   },
   {
@@ -266,7 +266,7 @@ export const WatchesData = [
     model: "Ticwatch Pro 3 GPS",
     price: 299,
     description: "A stylish smartwatch from Mobvoi.",
-    imgUrl: "src/assets/images/Watches/30.png",
+    imgUrl: "/assets/images/Watches/30.png",
     quantity: 1,
   },
   {
@@ -275,7 +275,7 @@ export const WatchesData = [
     model: "Ticwatch Pro 3 Cellular/LTE",
     price: 399,
     description: "A stylish smartwatch from Mobvoi.",
-    imgUrl: "src/assets/images/Watches/31.png",
+    imgUrl: "/assets/images/Watches/31.png",
     quantity: 1,
   },
   {
@@ -284,7 +284,7 @@ export const WatchesData = [
     model: "Ticwatch Pro S",
     price: 259,
     description: "A stylish smartwatch from Mobvoi.",
-    imgUrl: "src/assets/images/Watches/32.png",
+    imgUrl: "/assets/images/Watches/32.png",
     quantity: 1,
   },
 ];

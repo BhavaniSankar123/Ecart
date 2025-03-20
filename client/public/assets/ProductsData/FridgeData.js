@@ -6,7 +6,7 @@ export const FridgeData = [
     price: 1999,
     description:
       "The latest LG InstaView Door-in-Door fridge with smart features.",
-    imgUrl: "src/assets/images/Fridge/1.png",
+    imgUrl: "/assets/images/Fridge/1.png",
     quantity: 1,
   },
   {
@@ -16,7 +16,7 @@ export const FridgeData = [
     price: 2499,
     description:
       "The latest Samsung Family Hub fridge with smart connectivity.",
-    imgUrl: "src/assets/images/Fridge/2.png",
+    imgUrl: "/assets/images/Fridge/2.png",
     quantity: 1,
   },
   {
@@ -26,7 +26,7 @@ export const FridgeData = [
     price: 1499,
     description:
       "The latest Whirlpool fridge with fingerprint-resistant stainless steel.",
-    imgUrl: "src/assets/images/Fridge/3.png",
+    imgUrl: "/assets/images/Fridge/3.png",
     quantity: 1,
   },
   {
@@ -35,7 +35,7 @@ export const FridgeData = [
     model: "Profile PFE28KYNFS",
     price: 1799,
     description: "The latest GE Profile fridge with advanced water filtration.",
-    imgUrl: "src/assets/images/Fridge/4.png",
+    imgUrl: "/assets/images/Fridge/4.png",
     quantity: 1,
   },
   {
@@ -45,7 +45,7 @@ export const FridgeData = [
     price: 1299,
     description:
       "The latest Frigidaire fridge with adjustable interior storage.",
-    imgUrl: "src/assets/images/Fridge/5.png",
+    imgUrl: "/assets/images/Fridge/5.png",
     quantity: 1,
   },
   {
@@ -54,7 +54,7 @@ export const FridgeData = [
     model: "KRFF507HPS",
     price: 2799,
     description: "The latest KitchenAid fridge with Preserva Food Care System.",
-    imgUrl: "src/assets/images/Fridge/6.png",
+    imgUrl: "/assets/images/Fridge/6.png",
     quantity: 1,
   },
   {
@@ -63,7 +63,7 @@ export const FridgeData = [
     model: "B36CT80SNS",
     price: 2999,
     description: "The latest Bosch fridge with dual compressors.",
-    imgUrl: "src/assets/images/Fridge/7.png",
+    imgUrl: "/assets/images/Fridge/7.png",
     quantity: 1,
   },
   {
@@ -72,7 +72,7 @@ export const FridgeData = [
     model: "BI-42SD/S/PH",
     price: 8999,
     description: "The latest Sub-Zero fridge with air purification system.",
-    imgUrl: "src/assets/images/Fridge/8.png",
+    imgUrl: "/assets/images/Fridge/8.png",
     quantity: 1,
   },
   {
@@ -82,7 +82,7 @@ export const FridgeData = [
     price: 9999,
     description:
       "The latest Viking fridge with ProChill Temperature Management.",
-    imgUrl: "src/assets/images/Fridge/9.png",
+    imgUrl: "/assets/images/Fridge/9.png",
     quantity: 1,
   },
   {
@@ -91,7 +91,7 @@ export const FridgeData = [
     model: "CS2062",
     price: 7999,
     description: "The latest Liebherr fridge with BioFresh technology.",
-    imgUrl: "src/assets/images/Fridge/10.png",
+    imgUrl: "/assets/images/Fridge/10.png",
     quantity: 1,
   },
   {
@@ -100,7 +100,7 @@ export const FridgeData = [
     model: "KFN15943DE",
     price: 5999,
     description: "The latest Miele fridge with MasterCool technology.",
-    imgUrl: "src/assets/images/Fridge/11.png",
+    imgUrl: "/assets/images/Fridge/11.png",
     quantity: 1,
   },
   {
@@ -109,7 +109,7 @@ export const FridgeData = [
     model: "T36BT920NS",
     price: 4999,
     description: "The latest Thermador fridge with Freedom Hinge.",
-    imgUrl: "src/assets/images/Fridge/12.png",
+    imgUrl: "/assets/images/Fridge/12.png",
     quantity: 1,
   },
   {
@@ -118,7 +118,7 @@ export const FridgeData = [
     model: "JF42NXFXDE",
     price: 3999,
     description: "The latest Jenn-Air fridge with Obsidian interior.",
-    imgUrl: "src/assets/images/Fridge/13.png",
+    imgUrl: "/assets/images/Fridge/13.png",
     quantity: 1,
   },
   {
@@ -127,7 +127,7 @@ export const FridgeData = [
     model: "DRF36C100SR",
     price: 3499,
     description: "The latest Dacor fridge with FreshZone technology.",
-    imgUrl: "src/assets/images/Fridge/14.png",
+    imgUrl: "/assets/images/Fridge/14.png",
     quantity: 1,
   },
   {
@@ -136,7 +136,7 @@ export const FridgeData = [
     model: "ZISS480DKSS",
     price: 4499,
     description: "The latest Monogram fridge with Climate-Control Drawer.",
-    imgUrl: "src/assets/images/Fridge/15.png",
+    imgUrl: "/assets/images/Fridge/15.png",
     quantity: 1,
   },
   {
@@ -145,7 +145,7 @@ export const FridgeData = [
     model: "EI23BC82SS",
     price: 1699,
     description: "The latest Electrolux fridge with Perfect Temp Drawer.",
-    imgUrl: "src/assets/images/Fridge/16.png",
+    imgUrl: "/assets/images/Fridge/16.png",
     quantity: 1,
   },
   {
@@ -154,7 +154,7 @@ export const FridgeData = [
     model: "HRF15N3AGS",
     price: 999,
     description: "The latest Haier fridge with Quick Cool and Quick Freeze.",
-    imgUrl: "src/assets/images/Fridge/17.png",
+    imgUrl: "/assets/images/Fridge/17.png",
     quantity: 1,
   },
   {
@@ -163,7 +163,7 @@ export const FridgeData = [
     model: "HBM17158SS",
     price: 799,
     description: "The latest Hisense fridge with Multi Air Flow System.",
-    imgUrl: "src/assets/images/Fridge/18.png",
+    imgUrl: "/assets/images/Fridge/18.png",
     quantity: 1,
   },
   {
@@ -172,7 +172,7 @@ export const FridgeData = [
     model: "GR-RF646WE-PM",
     price: 599,
     description: "The latest Toshiba fridge with Nano Deodorizer.",
-    imgUrl: "src/assets/images/Fridge/19.png",
+    imgUrl: "/assets/images/Fridge/19.png",
     quantity: 1,
   },
   {
@@ -181,7 +181,7 @@ export const FridgeData = [
     model: "SJ-FX630V-SL",
     price: 499,
     description: "The latest Sharp fridge with J-Tech Inverter.",
-    imgUrl: "src/assets/images/Fridge/20.png",
+    imgUrl: "/assets/images/Fridge/20.png",
     quantity: 1,
   },
   {
@@ -190,7 +190,7 @@ export const FridgeData = [
     model: "UE49NU7000",
     price: 2999,
     description: "The latest Samsung fridge with SmartThings integration.",
-    imgUrl: "src/assets/images/Fridge/21.png",
+    imgUrl: "/assets/images/Fridge/21.png",
     quantity: 1,
   },
   {
@@ -200,7 +200,7 @@ export const FridgeData = [
     price: 1499,
     description:
       "The latest Whirlpool fridge with fingerprint-resistant stainless steel.",
-    imgUrl: "src/assets/images/Fridge/22.png",
+    imgUrl: "/assets/images/Fridge/22.png",
     quantity: 1,
   },
   {
@@ -209,7 +209,7 @@ export const FridgeData = [
     model: "Profile PFE28KYNFS",
     price: 1799,
     description: "The latest GE Profile fridge with advanced water filtration.",
-    imgUrl: "src/assets/images/Fridge/23.png",
+    imgUrl: "/assets/images/Fridge/23.png",
     quantity: 1,
   },
   {
@@ -219,7 +219,7 @@ export const FridgeData = [
     price: 1299,
     description:
       "The latest Frigidaire fridge with adjustable interior storage.",
-    imgUrl: "src/assets/images/Fridge/24.png",
+    imgUrl: "/assets/images/Fridge/24.png",
     quantity: 1,
   },
   {
@@ -228,7 +228,7 @@ export const FridgeData = [
     model: "KRFF507HPS",
     price: 2799,
     description: "The latest KitchenAid fridge with Preserva Food Care System.",
-    imgUrl: "src/assets/images/Fridge/25.png",
+    imgUrl: "/assets/images/Fridge/25.png",
     quantity: 1,
   },
   {
@@ -237,7 +237,7 @@ export const FridgeData = [
     model: "B36CT80SNS",
     price: 2999,
     description: "The latest Bosch fridge with dual compressors.",
-    imgUrl: "src/assets/images/Fridge/26.png",
+    imgUrl: "/assets/images/Fridge/26.png",
     quantity: 1,
   },
   {
@@ -246,7 +246,7 @@ export const FridgeData = [
     model: "BI-42SD/S/PH",
     price: 8999,
     description: "The latest Sub-Zero fridge with air purification system.",
-    imgUrl: "src/assets/images/Fridge/27.png",
+    imgUrl: "/assets/images/Fridge/27.png",
     quantity: 1,
   },
   {
@@ -256,7 +256,7 @@ export const FridgeData = [
     price: 9999,
     description:
       "The latest Viking fridge with ProChill Temperature Management.",
-    imgUrl: "src/assets/images/Fridge/28.png",
+    imgUrl: "/assets/images/Fridge/28.png",
     quantity: 1,
   },
   {
@@ -265,7 +265,7 @@ export const FridgeData = [
     model: "CS2062",
     price: 7999,
     description: "The latest Liebherr fridge with BioFresh technology.",
-    imgUrl: "src/assets/images/Fridge/29.png",
+    imgUrl: "/assets/images/Fridge/29.png",
     quantity: 1,
   },
   {
@@ -274,7 +274,7 @@ export const FridgeData = [
     model: "KFN15943DE",
     price: 5999,
     description: "The latest Miele fridge with MasterCool technology.",
-    imgUrl: "src/assets/images/Fridge/30.png",
+    imgUrl: "/assets/images/Fridge/30.png",
     quantity: 1,
   },
 ];

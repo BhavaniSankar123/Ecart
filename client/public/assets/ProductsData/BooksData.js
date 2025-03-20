@@ -6,7 +6,7 @@ export const BooksData = [
     title: "Harry Potter and the Philosopher's Stone",
     price: 19.99,
     description: "The seventh book in the Harry Potter series.",
-    imgUrl: "src/assets/images/Books/1.png",
+    imgUrl: "/assets/images/Books/1.png",
     quantity: 1,
   },
   {
@@ -16,7 +16,7 @@ export const BooksData = [
     title: "A Game of Thrones",
     price: 24.99,
     description: "The first book in the A Song of Ice and Fire series.",
-    imgUrl: "src/assets/images/Books/2.png",
+    imgUrl: "/assets/images/Books/2.png",
     quantity: 1,
   },
   {
@@ -26,7 +26,7 @@ export const BooksData = [
     title: "The Hobbit",
     price: 14.99,
     description: "A fantasy novel and prelude to The Lord of the Rings.",
-    imgUrl: "src/assets/images/Books/3.png",
+    imgUrl: "/assets/images/Books/3.png",
     quantity: 1,
   },
   {
@@ -36,7 +36,7 @@ export const BooksData = [
     title: "To Kill a Mockingbird",
     price: 18.99,
     description: "A novel about racial injustice in the Deep South.",
-    imgUrl: "src/assets/images/Books/4.png",
+    imgUrl: "/assets/images/Books/4.png",
     quantity: 1,
   },
   {
@@ -46,7 +46,7 @@ export const BooksData = [
     title: "The Great Gatsby",
     price: 15.99,
     description: "A novel about the American dream and the Roaring Twenties.",
-    imgUrl: "src/assets/images/Books/5.png",
+    imgUrl: "/assets/images/Books/5.png",
     quantity: 1,
   },
   {
@@ -56,7 +56,7 @@ export const BooksData = [
     title: "Pride and Prejudice",
     price: 16.99,
     description: "A novel about love and class in Regency England.",
-    imgUrl: "src/assets/images/Books/6.png",
+    imgUrl: "/assets/images/Books/6.png",
     quantity: 1,
   },
   {
@@ -67,7 +67,7 @@ export const BooksData = [
     price: 17.99,
     description:
       "A novel about friendship and freedom on the Mississippi River.",
-    imgUrl: "src/assets/images/Books/7.png",
+    imgUrl: "/assets/images/Books/7.png",
     quantity: 1,
   },
   {
@@ -77,7 +77,7 @@ export const BooksData = [
     title: "Jane Eyre",
     price: 16.99,
     description: "A novel about love and independence in Victorian England.",
-    imgUrl: "src/assets/images/Books/8.png",
+    imgUrl: "/assets/images/Books/8.png",
     quantity: 1,
   },
   {
@@ -87,7 +87,7 @@ export const BooksData = [
     title: "War and Peace",
     price: 29.99,
     description: "A novel about love and war in 19th-century Russia.",
-    imgUrl: "src/assets/images/Books/9.png",
+    imgUrl: "/assets/images/Books/9.png",
     quantity: 1,
   },
   {
@@ -98,7 +98,7 @@ export const BooksData = [
     price: 18.99,
     description:
       "A novel about ambition and social class in Victorian England.",
-    imgUrl: "src/assets/images/Books/10.png",
+    imgUrl: "/assets/images/Books/10.png",
     quantity: 1,
   },
   {
@@ -108,7 +108,7 @@ export const BooksData = [
     title: "Wuthering Heights",
     price: 16.99,
     description: "A novel about love and revenge on the Yorkshire moors.",
-    imgUrl: "src/assets/images/Books/11.png",
+    imgUrl: "/assets/images/Books/11.png",
     quantity: 1,
   },
   {
@@ -118,7 +118,7 @@ export const BooksData = [
     title: "Moby-Dick",
     price: 21.99,
     description: "A novel about obsession and revenge on the high seas.",
-    imgUrl: "src/assets/images/Books/12.png",
+    imgUrl: "/assets/images/Books/12.png",
     quantity: 1,
   },
   {
@@ -128,7 +128,7 @@ export const BooksData = [
     title: "Frankenstein",
     price: 14.99,
     description: "A novel about a scientist who creates a monster.",
-    imgUrl: "src/assets/images/Books/13.png",
+    imgUrl: "/assets/images/Books/13.png",
     quantity: 1,
   },
   {
@@ -138,7 +138,7 @@ export const BooksData = [
     title: "Dracula",
     price: 15.99,
     description: "A novel about the vampire Count Dracula.",
-    imgUrl: "src/assets/images/Books/14.png",
+    imgUrl: "/assets/images/Books/14.png",
     quantity: 1,
   },
   {
@@ -148,7 +148,7 @@ export const BooksData = [
     title: "The War of the Worlds",
     price: 16.99,
     description: "A novel about an alien invasion of Earth.",
-    imgUrl: "src/assets/images/Books/15.png",
+    imgUrl: "/assets/images/Books/15.png",
     quantity: 1,
   },
   {
@@ -158,7 +158,7 @@ export const BooksData = [
     title: "Twenty Thousand Leagues Under the Sea",
     price: 17.99,
     description: "A novel about Captain Nemo's submarine adventures.",
-    imgUrl: "src/assets/images/Books/16.png",
+    imgUrl: "/assets/images/Books/16.png",
     quantity: 1,
   },
   {
@@ -168,7 +168,7 @@ export const BooksData = [
     title: "The Adventures of Sherlock Holmes",
     price: 18.99,
     description: "A collection of detective stories featuring Sherlock Holmes.",
-    imgUrl: "src/assets/images/Books/17.png",
+    imgUrl: "/assets/images/Books/17.png",
     quantity: 1,
   },
   {
@@ -179,7 +179,7 @@ export const BooksData = [
     price: 19.99,
     description:
       "A novel about the lives of four sisters during the Civil War.",
-    imgUrl: "src/assets/images/Books/18.png",
+    imgUrl: "/assets/images/Books/18.png",
     quantity: 1,
   },
   {
@@ -190,7 +190,7 @@ export const BooksData = [
     price: 16.99,
     description:
       "A novel about a man whose portrait ages while he remains young.",
-    imgUrl: "src/assets/images/Books/19.png",
+    imgUrl: "/assets/images/Books/19.png",
     quantity: 1,
   },
   {
@@ -201,7 +201,7 @@ export const BooksData = [
     price: 24.99,
     description:
       "A novel about the adventures of a nobleman who becomes a knight-errant.",
-    imgUrl: "src/assets/images/Books/20.png",
+    imgUrl: "/assets/images/Books/20.png",
     quantity: 1,
   },
   {
@@ -211,7 +211,7 @@ export const BooksData = [
     title: "Harry Potter and the Chamber of Secrets",
     price: 19.99,
     description: "The first book in the Harry Potter series.",
-    imgUrl: "src/assets/images/Books/21.png",
+    imgUrl: "/assets/images/Books/21.png",
     quantity: 1,
   },
   {
@@ -221,7 +221,7 @@ export const BooksData = [
     title: "Harry Potter and the Goblet of Fire",
     price: 19.99,
     description: "The third book in the Harry Potter series.",
-    imgUrl: "src/assets/images/Books/22.png",
+    imgUrl: "/assets/images/Books/22.png",
     quantity: 1,
   },
   {
@@ -231,7 +231,7 @@ export const BooksData = [
     title: "I love you to the moon and back",
     price: 19.99,
     description: "A book about love",
-    imgUrl: "src/assets/images/Books/23.png",
+    imgUrl: "/assets/images/Books/23.png",
     quantity: 1,
   },
 ];

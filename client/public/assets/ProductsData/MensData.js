@@ -5,7 +5,7 @@ export const MensData = [
     model: "Casual Shirt",
     price: 45,
     description: "A stylish casual shirt with a comfortable fit.",
-    imgUrl: "src/assets/images/Mens-Wear/1.png",
+    imgUrl: "/assets/images/Mens-Wear/1.png",
     quantity: 1,
   },
   {
@@ -14,7 +14,7 @@ export const MensData = [
     model: "Denim Jacket",
     price: 60,
     description: "A rugged denim jacket for a cool, casual look.",
-    imgUrl: "src/assets/images/Mens-Wear/2.png",
+    imgUrl: "/assets/images/Mens-Wear/2.png",
     quantity: 1,
   },
   {
@@ -23,7 +23,7 @@ export const MensData = [
     model: "Slim Fit Jeans",
     price: 70,
     description: "Classic slim fit jeans with a modern style.",
-    imgUrl: "src/assets/images/Mens-Wear/3.png",
+    imgUrl: "/assets/images/Mens-Wear/3.png",
     quantity: 1,
   },
   {
@@ -32,7 +32,7 @@ export const MensData = [
     model: "Polo T-Shirt",
     price: 35,
     description: "A comfortable polo t-shirt with a classic design.",
-    imgUrl: "src/assets/images/Mens-Wear/4.png",
+    imgUrl: "/assets/images/Mens-Wear/4.png",
     quantity: 1,
   },
   {
@@ -41,7 +41,7 @@ export const MensData = [
     model: "Formal Suit",
     price: 150,
     description: "A sophisticated formal suit for special occasions.",
-    imgUrl: "src/assets/images/Mens-Wear/5.png",
+    imgUrl: "/assets/images/Mens-Wear/5.png",
     quantity: 1,
   },
   {
@@ -50,7 +50,7 @@ export const MensData = [
     model: "Formal Shirt",
     price: 40,
     description: "A crisp formal shirt for office wear.",
-    imgUrl: "src/assets/images/Mens-Wear/6.png",
+    imgUrl: "/assets/images/Mens-Wear/6.png",
     quantity: 1,
   },
   {
@@ -59,7 +59,7 @@ export const MensData = [
     model: "Blazer",
     price: 120,
     description: "A stylish blazer for a polished look.",
-    imgUrl: "src/assets/images/Mens-Wear/7.png",
+    imgUrl: "/assets/images/Mens-Wear/7.png",
     quantity: 1,
   },
   {
@@ -68,7 +68,7 @@ export const MensData = [
     model: "Chinos",
     price: 50,
     description: "Comfortable chinos for a smart casual look.",
-    imgUrl: "src/assets/images/Mens-Wear/8.png",
+    imgUrl: "/assets/images/Mens-Wear/8.png",
     quantity: 1,
   },
   {
@@ -77,7 +77,7 @@ export const MensData = [
     model: "Graphic T-Shirt",
     price: 25,
     description: "A trendy graphic t-shirt for casual outings.",
-    imgUrl: "src/assets/images/Mens-Wear/9.png",
+    imgUrl: "/assets/images/Mens-Wear/9.png",
     quantity: 1,
   },
   {
@@ -86,7 +86,7 @@ export const MensData = [
     model: "Sweatshirt",
     price: 80,
     description: "A cozy sweatshirt with a stylish design.",
-    imgUrl: "src/assets/images/Mens-Wear/10.png",
+    imgUrl: "/assets/images/Mens-Wear/10.png",
     quantity: 1,
   },
   {
@@ -95,7 +95,7 @@ export const MensData = [
     model: "Hoodie",
     price: 60,
     description: "A comfortable hoodie for everyday wear.",
-    imgUrl: "src/assets/images/Mens-Wear/11.png",
+    imgUrl: "/assets/images/Mens-Wear/11.png",
     quantity: 1,
   },
   {
@@ -104,7 +104,7 @@ export const MensData = [
     model: "Bomber Jacket",
     price: 90,
     description: "A stylish bomber jacket for a trendy look.",
-    imgUrl: "src/assets/images/Mens-Wear/12.png",
+    imgUrl: "/assets/images/Mens-Wear/12.png",
     quantity: 1,
   },
   {
@@ -113,7 +113,7 @@ export const MensData = [
     model: "Track Pants",
     price: 55,
     description: "Comfortable track pants for workouts and casual wear.",
-    imgUrl: "src/assets/images/Mens-Wear/13.png",
+    imgUrl: "/assets/images/Mens-Wear/13.png",
     quantity: 1,
   },
   {
@@ -122,7 +122,7 @@ export const MensData = [
     model: "Sports T-Shirt",
     price: 35,
     description: "A breathable sports t-shirt for active wear.",
-    imgUrl: "src/assets/images/Mens-Wear/14.png",
+    imgUrl: "/assets/images/Mens-Wear/14.png",
     quantity: 1,
   },
   {
@@ -131,7 +131,7 @@ export const MensData = [
     model: "Running Shorts",
     price: 30,
     description: "Lightweight running shorts for maximum comfort.",
-    imgUrl: "src/assets/images/Mens-Wear/15.png",
+    imgUrl: "/assets/images/Mens-Wear/15.png",
     quantity: 1,
   },
   {
@@ -140,7 +140,7 @@ export const MensData = [
     model: "Training Jacket",
     price: 70,
     description: "A versatile training jacket for workouts.",
-    imgUrl: "src/assets/images/Mens-Wear/16.png",
+    imgUrl: "/assets/images/Mens-Wear/16.png",
     quantity: 1,
   },
   {
@@ -149,7 +149,7 @@ export const MensData = [
     model: "Compression Shirt",
     price: 40,
     description: "A compression shirt for enhanced performance.",
-    imgUrl: "src/assets/images/Mens-Wear/17.png",
+    imgUrl: "/assets/images/Mens-Wear/17.png",
     quantity: 1,
   },
   {
@@ -158,7 +158,7 @@ export const MensData = [
     model: "Polo Shirt",
     price: 85,
     description: "A classic polo shirt with a modern fit.",
-    imgUrl: "src/assets/images/Mens-Wear/18.png",
+    imgUrl: "/assets/images/Mens-Wear/18.png",
     quantity: 1,
   },
   {
@@ -167,7 +167,7 @@ export const MensData = [
     model: "Casual Shorts",
     price: 40,
     description: "Comfortable casual shorts for summer wear.",
-    imgUrl: "src/assets/images/Mens-Wear/19.png",
+    imgUrl: "/assets/images/Mens-Wear/19.png",
     quantity: 1,
   },
   {
@@ -176,7 +176,7 @@ export const MensData = [
     model: "Sweater",
     price: 50,
     description: "A cozy sweater for cool weather.",
-    imgUrl: "src/assets/images/Mens-Wear/20.png",
+    imgUrl: "/assets/images/Mens-Wear/20.png",
     quantity: 1,
   },
   {
@@ -185,7 +185,7 @@ export const MensData = [
     model: "Dress Shirt",
     price: 100,
     description: "A premium dress shirt for formal occasions.",
-    imgUrl: "src/assets/images/Mens-Wear/21.png",
+    imgUrl: "/assets/images/Mens-Wear/21.png",
     quantity: 1,
   },
   {
@@ -194,7 +194,7 @@ export const MensData = [
     model: "Jeans",
     price: 90,
     description: "Stylish jeans with a modern fit.",
-    imgUrl: "src/assets/images/Mens-Wear/22.png",
+    imgUrl: "/assets/images/Mens-Wear/22.png",
     quantity: 1,
   },
   {
@@ -203,7 +203,7 @@ export const MensData = [
     model: "Blazer",
     price: 200,
     description: "A sophisticated blazer for a polished look.",
-    imgUrl: "src/assets/images/Mens-Wear/23.png",
+    imgUrl: "/assets/images/Mens-Wear/23.png",
     quantity: 1,
   },
   {
@@ -212,7 +212,7 @@ export const MensData = [
     model: "T-Shirt",
     price: 250,
     description: "A luxury t-shirt with a stylish design.",
-    imgUrl: "src/assets/images/Mens-Wear/24.png",
+    imgUrl: "/assets/images/Mens-Wear/24.png",
     quantity: 1,
   },
   {
@@ -221,7 +221,7 @@ export const MensData = [
     model: "Sweater",
     price: 300,
     description: "A high-end sweater with a modern fit.",
-    imgUrl: "src/assets/images/Mens-Wear/25.png",
+    imgUrl: "/assets/images/Mens-Wear/25.png",
     quantity: 1,
   },
   {
@@ -230,7 +230,7 @@ export const MensData = [
     model: "Dress Pants",
     price: 180,
     description: "Elegant dress pants for formal occasions.",
-    imgUrl: "src/assets/images/Mens-Wear/26.png",
+    imgUrl: "/assets/images/Mens-Wear/26.png",
     quantity: 1,
   },
   {
@@ -239,7 +239,7 @@ export const MensData = [
     model: "Suit",
     price: 500,
     description: "A luxurious suit for special events.",
-    imgUrl: "src/assets/images/Mens-Wear/27.png",
+    imgUrl: "/assets/images/Mens-Wear/27.png",
     quantity: 1,
   },
   {
@@ -248,7 +248,7 @@ export const MensData = [
     model: "Trench Coat",
     price: 600,
     description: "A classic trench coat with a modern twist.",
-    imgUrl: "src/assets/images/Mens-Wear/28.png",
+    imgUrl: "/assets/images/Mens-Wear/28.png",
     quantity: 1,
   },
   {
@@ -257,7 +257,7 @@ export const MensData = [
     model: "Blazer",
     price: 700,
     description: "A high-end blazer for a sophisticated look.",
-    imgUrl: "src/assets/images/Mens-Wear/29.png",
+    imgUrl: "/assets/images/Mens-Wear/29.png",
     quantity: 1,
   },
   {
@@ -266,7 +266,7 @@ export const MensData = [
     model: "Leather Jacket",
     price: 1000,
     description: "A luxury leather jacket with a stylish design.",
-    imgUrl: "src/assets/images/Mens-Wear/30.png",
+    imgUrl: "/assets/images/Mens-Wear/30.png",
     quantity: 1,
   },
 ];

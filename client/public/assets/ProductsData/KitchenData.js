@@ -5,7 +5,7 @@ export const KitchenData = [
     model: "Stand Mixer",
     price: 399,
     description: "A versatile stand mixer with multiple attachments.",
-    imgUrl: "src/assets/images/Kitchen/1.png",
+    imgUrl: "/assets/images/Kitchen/1.png",
     quantity: 1,
   },
   {
@@ -14,7 +14,7 @@ export const KitchenData = [
     model: "Duo 7-in-1",
     price: 99,
     description: "A multi-functional pressure cooker with 7 cooking modes.",
-    imgUrl: "src/assets/images/Kitchen/2.png",
+    imgUrl: "/assets/images/Kitchen/2.png",
     quantity: 1,
   },
   {
@@ -23,7 +23,7 @@ export const KitchenData = [
     model: "Foodi Grill",
     price: 229,
     description: "A versatile indoor grill with air frying capabilities.",
-    imgUrl: "src/assets/images/Kitchen/3.png",
+    imgUrl: "/assets/images/Kitchen/3.png",
     quantity: 1,
   },
   {
@@ -32,7 +32,7 @@ export const KitchenData = [
     model: "Smart Oven",
     price: 299,
     description: "A smart oven with multiple cooking functions.",
-    imgUrl: "src/assets/images/Kitchen/4.png",
+    imgUrl: "/assets/images/Kitchen/4.png",
     quantity: 1,
   },
   {
@@ -41,7 +41,7 @@ export const KitchenData = [
     model: "Air Fryer Toaster Oven",
     price: 199,
     description: "A toaster oven with air frying capabilities.",
-    imgUrl: "src/assets/images/Kitchen/5.png",
+    imgUrl: "/assets/images/Kitchen/5.png",
     quantity: 1,
   },
   {
@@ -50,7 +50,7 @@ export const KitchenData = [
     model: "Blender",
     price: 449,
     description: "A high-performance blender for smoothies and soups.",
-    imgUrl: "src/assets/images/Kitchen/6.png",
+    imgUrl: "/assets/images/Kitchen/6.png",
     quantity: 1,
   },
   {
@@ -59,7 +59,7 @@ export const KitchenData = [
     model: "Coffee Maker",
     price: 129,
     description: "A single-serve coffee maker for quick and easy brewing.",
-    imgUrl: "src/assets/images/Kitchen/7.png",
+    imgUrl: "/assets/images/Kitchen/7.png",
     quantity: 1,
   },
   {
@@ -68,7 +68,7 @@ export const KitchenData = [
     model: "Glass Mixing Bowls",
     price: 39,
     description: "A set of durable glass mixing bowls for food prep.",
-    imgUrl: "src/assets/images/Kitchen/8.png",
+    imgUrl: "/assets/images/Kitchen/8.png",
     quantity: 1,
   },
   {
@@ -77,7 +77,7 @@ export const KitchenData = [
     model: "Cookware Set",
     price: 599,
     description: "A premium stainless steel cookware set for home chefs.",
-    imgUrl: "src/assets/images/Kitchen/9.png",
+    imgUrl: "/assets/images/Kitchen/9.png",
     quantity: 1,
   },
   {
@@ -86,7 +86,7 @@ export const KitchenData = [
     model: "Pop Containers",
     price: 99,
     description: "A set of airtight containers for pantry organization.",
-    imgUrl: "src/assets/images/Kitchen/10.png",
+    imgUrl: "/assets/images/Kitchen/10.png",
     quantity: 1,
   },
   {
@@ -95,7 +95,7 @@ export const KitchenData = [
     model: "Dutch Oven",
     price: 349,
     description: "An enameled cast iron Dutch oven for braising and baking.",
-    imgUrl: "src/assets/images/Kitchen/11.png",
+    imgUrl: "/assets/images/Kitchen/11.png",
     quantity: 1,
   },
   {
@@ -104,7 +104,7 @@ export const KitchenData = [
     model: "Knife Set",
     price: 99,
     description: "A set of high-quality knives for food preparation.",
-    imgUrl: "src/assets/images/Kitchen/12.png",
+    imgUrl: "/assets/images/Kitchen/12.png",
     quantity: 1,
   },
   {
@@ -113,7 +113,7 @@ export const KitchenData = [
     model: "Food Processor",
     price: 89,
     description: "A versatile food processor for slicing and shredding.",
-    imgUrl: "src/assets/images/Kitchen/13.png",
+    imgUrl: "/assets/images/Kitchen/13.png",
     quantity: 1,
   },
   {
@@ -122,7 +122,7 @@ export const KitchenData = [
     model: "Nonstick Cookware Set",
     price: 199,
     description: "A nonstick cookware set for everyday cooking.",
-    imgUrl: "src/assets/images/Kitchen/14.png",
+    imgUrl: "/assets/images/Kitchen/14.png",
     quantity: 1,
   },
   {
@@ -131,7 +131,7 @@ export const KitchenData = [
     model: "Hand Mixer",
     price: 49,
     description: "A compact hand mixer for baking and mixing.",
-    imgUrl: "src/assets/images/Kitchen/15.png",
+    imgUrl: "/assets/images/Kitchen/15.png",
     quantity: 1,
   },
   {
@@ -140,7 +140,7 @@ export const KitchenData = [
     model: "Digital Scale",
     price: 29,
     description: "A digital kitchen scale for precise measurements.",
-    imgUrl: "src/assets/images/Kitchen/16.png",
+    imgUrl: "/assets/images/Kitchen/16.png",
     quantity: 1,
   },
   {
@@ -149,7 +149,7 @@ export const KitchenData = [
     model: "Griddler",
     price: 79,
     description: "A versatile griddler for grilling and panini-making.",
-    imgUrl: "src/assets/images/Kitchen/17.png",
+    imgUrl: "/assets/images/Kitchen/17.png",
     quantity: 1,
   },
   {
@@ -158,7 +158,7 @@ export const KitchenData = [
     model: "Espresso Machine",
     price: 199,
     description: "A compact espresso machine for coffee lovers.",
-    imgUrl: "src/assets/images/Kitchen/18.png",
+    imgUrl: "/assets/images/Kitchen/18.png",
     quantity: 1,
   },
   {
@@ -167,7 +167,7 @@ export const KitchenData = [
     model: "Salad Spinner",
     price: 29,
     description: "A salad spinner for washing and drying leafy greens.",
-    imgUrl: "src/assets/images/Kitchen/19.png",
+    imgUrl: "/assets/images/Kitchen/19.png",
     quantity: 1,
   },
   {
@@ -176,7 +176,7 @@ export const KitchenData = [
     model: "Waffle Maker",
     price: 49,
     description: "A waffle maker for making delicious breakfast treats.",
-    imgUrl: "src/assets/images/Kitchen/20.png",
+    imgUrl: "/assets/images/Kitchen/20.png",
     quantity: 1,
   },
 ];

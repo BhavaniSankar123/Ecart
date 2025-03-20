@@ -6,7 +6,7 @@ export const ACData = [
     price: 599,
     description:
       "The latest LG Dual Inverter AC with energy-saving technology.",
-    imgUrl: "src/assets/images/AC/1.png",
+    imgUrl: "/assets/images/AC/1.png",
     quantity: 1,
   },
   {
@@ -16,7 +16,7 @@ export const ACData = [
     price: 699,
     description:
       "The latest Samsung Wind-Free AC with fast cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/2.png",
+    imgUrl: "/assets/images/AC/2.png",
     quantity: 1,
   },
   {
@@ -26,7 +26,7 @@ export const ACData = [
     price: 799,
     description:
       "The latest Daikin FTKM Series AC with high energy efficiency and quiet operation.",
-    imgUrl: "src/assets/images/AC/3.png",
+    imgUrl: "/assets/images/AC/3.png",
     quantity: 1,
   },
   {
@@ -36,7 +36,7 @@ export const ACData = [
     price: 649,
     description:
       "The latest Hitachi Kashikoi 5400X AC with advanced cooling technology.",
-    imgUrl: "src/assets/images/AC/4.png",
+    imgUrl: "/assets/images/AC/4.png",
     quantity: 1,
   },
   {
@@ -46,7 +46,7 @@ export const ACData = [
     price: 549,
     description:
       "The latest Voltas SAC 185V AC with high ambient cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/5.png",
+    imgUrl: "/assets/images/AC/5.png",
     quantity: 1,
   },
   {
@@ -56,7 +56,7 @@ export const ACData = [
     price: 499,
     description:
       "The latest Blue Star IC518QATU AC with precision cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/6.png",
+    imgUrl: "/assets/images/AC/6.png",
     quantity: 1,
   },
   {
@@ -66,7 +66,7 @@ export const ACData = [
     price: 549,
     description:
       "The latest Whirlpool Magicool Pro AC with 3D cool technology and energy efficiency.",
-    imgUrl: "src/assets/images/AC/7.png",
+    imgUrl: "/assets/images/AC/7.png",
     quantity: 1,
   },
   {
@@ -76,7 +76,7 @@ export const ACData = [
     price: 599,
     description:
       "The latest Carrier 18K Ester Neo AC with energy-saving technology and PM 2.5 filter.",
-    imgUrl: "src/assets/images/AC/8.png",
+    imgUrl: "/assets/images/AC/8.png",
     quantity: 1,
   },
   {
@@ -86,7 +86,7 @@ export const ACData = [
     price: 499,
     description:
       "The latest Godrej GIC 18WTC3-WSA AC with energy-efficient inverter technology.",
-    imgUrl: "src/assets/images/AC/9.png",
+    imgUrl: "/assets/images/AC/9.png",
     quantity: 1,
   },
   {
@@ -96,7 +96,7 @@ export const ACData = [
     price: 449,
     description:
       "The latest Haier HSU-19TCR3C AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/10.png",
+    imgUrl: "/assets/images/AC/10.png",
     quantity: 1,
   },
   {
@@ -106,7 +106,7 @@ export const ACData = [
     price: 599,
     description:
       "The latest Panasonic CS/CU-NU18WKYW AC with nanoe technology and energy efficiency.",
-    imgUrl: "src/assets/images/AC/11.png",
+    imgUrl: "/assets/images/AC/11.png",
     quantity: 1,
   },
   {
@@ -116,7 +116,7 @@ export const ACData = [
     price: 649,
     description:
       "The latest Toshiba RAS-18BKCV-IN+RAS-18BACV-IN AC with inverter technology and energy efficiency.",
-    imgUrl: "src/assets/images/AC/12.png",
+    imgUrl: "/assets/images/AC/12.png",
     quantity: 1,
   },
   {
@@ -126,7 +126,7 @@ export const ACData = [
     price: 549,
     description:
       "The latest Sharp AH-XP18PHT AC with J-Tech inverter technology and energy efficiency.",
-    imgUrl: "src/assets/images/AC/13.png",
+    imgUrl: "/assets/images/AC/13.png",
     quantity: 1,
   },
   {
@@ -136,7 +136,7 @@ export const ACData = [
     price: 699,
     description:
       "The latest Mitsubishi MSY-GR18VF AC with 3D i-See sensor and energy efficiency.",
-    imgUrl: "src/assets/images/AC/14.png",
+    imgUrl: "/assets/images/AC/14.png",
     quantity: 1,
   },
   {
@@ -146,7 +146,7 @@ export const ACData = [
     price: 449,
     description:
       "The latest Onida IR185ONX AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/15.png",
+    imgUrl: "/assets/images/AC/15.png",
     quantity: 1,
   },
   {
@@ -156,7 +156,7 @@ export const ACData = [
     price: 799,
     description:
       "The latest O General ASGA18FTTC AC with energy-efficient inverter technology.",
-    imgUrl: "src/assets/images/AC/16.png",
+    imgUrl: "/assets/images/AC/16.png",
     quantity: 1,
   },
   {
@@ -166,7 +166,7 @@ export const ACData = [
     price: 499,
     description:
       "The latest IFB IACI18GB3G3C AC with 4-way cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/17.png",
+    imgUrl: "/assets/images/AC/17.png",
     quantity: 1,
   },
   {
@@ -176,7 +176,7 @@ export const ACData = [
     price: 549,
     description:
       "The latest Lloyd LS18I52WR AC with inverter technology and energy efficiency.",
-    imgUrl: "src/assets/images/AC/18.png",
+    imgUrl: "/assets/images/AC/18.png",
     quantity: 1,
   },
   {
@@ -186,7 +186,7 @@ export const ACData = [
     price: 449,
     description:
       "The latest Sansui SAC123SIA AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/19.png",
+    imgUrl: "/assets/images/AC/19.png",
     quantity: 1,
   },
   {
@@ -196,7 +196,7 @@ export const ACData = [
     price: 499,
     description:
       "The latest Videocon VS5C3.WM1-MCA AC with energy-efficient inverter technology.",
-    imgUrl: "src/assets/images/AC/20.png",
+    imgUrl: "/assets/images/AC/20.png",
     quantity: 1,
   },
   {
@@ -206,7 +206,7 @@ export const ACData = [
     price: 399,
     description:
       "The latest Micromax ACS18ED5AS02WHI AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/21.png",
+    imgUrl: "/assets/images/AC/21.png",
     quantity: 1,
   },
   {
@@ -216,7 +216,7 @@ export const ACData = [
     price: 349,
     description:
       "The latest Intex IR18W3S AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/22.png",
+    imgUrl: "/assets/images/AC/22.png",
     quantity: 1,
   },
   {
@@ -226,7 +226,7 @@ export const ACData = [
     price: 399,
     description:
       "The latest Kenstar KSM55.WN1-MDA/QDL AC with energy-efficient inverter technology.",
-    imgUrl: "src/assets/images/AC/23.png",
+    imgUrl: "/assets/images/AC/23.png",
     quantity: 1,
   },
   {
@@ -236,7 +236,7 @@ export const ACData = [
     price: 399,
     description:
       "The latest Sansui SAC103SIA AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/24.png",
+    imgUrl: "/assets/images/AC/24.png",
     quantity: 1,
   },
   {
@@ -246,7 +246,7 @@ export const ACData = [
     price: 449,
     description:
       "The latest Videocon VS4E3.WV2-CR AC with energy-efficient inverter technology.",
-    imgUrl: "src/assets/images/AC/25.png",
+    imgUrl: "/assets/images/AC/25.png",
     quantity: 1,
   },
   {
@@ -256,7 +256,7 @@ export const ACData = [
     price: 349,
     description:
       "The latest Micromax ACS13ED5AS02WHI AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/26.png",
+    imgUrl: "/assets/images/AC/26.png",
     quantity: 1,
   },
   {
@@ -266,7 +266,7 @@ export const ACData = [
     price: 299,
     description:
       "The latest Intex IR13W3S AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/27.png",
+    imgUrl: "/assets/images/AC/27.png",
     quantity: 1,
   },
   {
@@ -276,7 +276,7 @@ export const ACData = [
     price: 349,
     description:
       "The latest Kenstar KSM35.WN1-MDA/QDL AC with energy-efficient inverter technology.",
-    imgUrl: "src/assets/images/AC/28.png",
+    imgUrl: "/assets/images/AC/28.png",
     quantity: 1,
   },
   {
@@ -286,7 +286,7 @@ export const ACData = [
     price: 299,
     description:
       "The latest Sansui SAC073SIA AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/29.png",
+    imgUrl: "/assets/images/AC/29.png",
     quantity: 1,
   },
   {
@@ -296,7 +296,7 @@ export const ACData = [
     price: 349,
     description:
       "The latest Videocon VS3E3.WV2-CR AC with energy-efficient inverter technology.",
-    imgUrl: "src/assets/images/AC/30.png",
+    imgUrl: "/assets/images/AC/30.png",
     quantity: 1,
   },
   {
@@ -306,7 +306,7 @@ export const ACData = [
     price: 299,
     description:
       "The latest Micromax ACS10ED5AS02WHI AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/31.png",
+    imgUrl: "/assets/images/AC/31.png",
     quantity: 1,
   },
   {
@@ -316,7 +316,7 @@ export const ACData = [
     price: 249,
     description:
       "The latest Intex IR10W3S AC with turbo cooling and energy efficiency.",
-    imgUrl: "src/assets/images/AC/32.png",
+    imgUrl: "/assets/images/AC/32.png",
     quantity: 1,
   },
 ];

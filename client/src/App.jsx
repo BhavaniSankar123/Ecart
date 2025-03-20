@@ -13,19 +13,19 @@ import { GadgetsProvider } from "./components/contexts/GadgetProvider";
 import { CartProvider } from "./components/contexts/CartProvider";
 import { AddCartProvider } from "./components/contexts/AddCartProvider";
 
-import { MobilesData } from "./assets/ProductsData/MobilesData";
-import { ComputersData } from "./assets/ProductsData/ComputersData";
-import { ACData } from "./assets/ProductsData/ACData";
-import { BooksData } from "./assets/ProductsData/BooksData";
-import { FridgeData } from "./assets/ProductsData/FridgeData";
-import { FurnitureData } from "./assets/ProductsData/FurnitureData";
-import { KitchenData } from "./assets/ProductsData/KitchenData";
-import { MensData } from "./assets/ProductsData/MensData";
-import { WomenData } from "./assets/ProductsData/WomenData";
-import { SpeakersData } from "./assets/ProductsData/SpeakersData";
-import { TVData } from "./assets/ProductsData/TVData";
-import { WatchesData } from "./assets/ProductsData/WatchesData";
-import { ShoesData } from "./assets/ProductsData/ShoesData";
+import { MobilesData } from "/public/assets/ProductsData/MobilesData";
+import { ComputersData } from "/public/assets/ProductsData/ComputersData";
+import { ACData } from "/public/assets/ProductsData/ACData";
+import { BooksData } from "/public/assets/ProductsData/BooksData";
+import { FridgeData } from "/public/assets/ProductsData/FridgeData";
+import { FurnitureData } from "/public/assets/ProductsData/FurnitureData";
+import { KitchenData } from "/public/assets/ProductsData/KitchenData";
+import { MensData } from "/public/assets/ProductsData/MensData";
+import { WomenData } from "/public/assets/ProductsData/WomenData";
+import { SpeakersData } from "/public/assets/ProductsData/SpeakersData";
+import { TVData } from "/public/assets/ProductsData/TVData";
+import { WatchesData } from "/public/assets/ProductsData/WatchesData";
+import { ShoesData } from "/public/assets/ProductsData/ShoesData";
 
 const gadgetsList = [
   "Mobiles",

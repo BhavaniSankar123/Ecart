@@ -5,7 +5,7 @@ export const SpeakersData = [
     model: "SoundLink Revolve",
     price: 199,
     description: "A portable Bluetooth speaker with 360-degree sound.",
-    imgUrl: "src/assets/images/Speakers/1.png",
+    imgUrl: "/assets/images/Speakers/1.png",
     quantity: 1,
   },
   {
@@ -14,7 +14,7 @@ export const SpeakersData = [
     model: "Charge 4",
     price: 149,
     description: "A waterproof Bluetooth speaker with powerful sound.",
-    imgUrl: "src/assets/images/Speakers/2.png",
+    imgUrl: "/assets/images/Speakers/2.png",
     quantity: 1,
   },
   {
@@ -23,7 +23,7 @@ export const SpeakersData = [
     model: "SRS-XB43",
     price: 249,
     description: "A portable Bluetooth speaker with extra bass.",
-    imgUrl: "src/assets/images/Speakers/3.png",
+    imgUrl: "/assets/images/Speakers/3.png",
     quantity: 1,
   },
   {
@@ -33,7 +33,7 @@ export const SpeakersData = [
     price: 179,
     description:
       "A portable Bluetooth speaker with 360-degree sound and waterproof design.",
-    imgUrl: "src/assets/images/Speakers/4.png",
+    imgUrl: "/assets/images/Speakers/4.png",
     quantity: 1,
   },
   {
@@ -42,7 +42,7 @@ export const SpeakersData = [
     model: "Stanmore II",
     price: 399,
     description: "A powerful Bluetooth speaker with classic Marshall design.",
-    imgUrl: "src/assets/images/Speakers/5.png",
+    imgUrl: "/assets/images/Speakers/5.png",
     quantity: 1,
   },
   {
@@ -51,7 +51,7 @@ export const SpeakersData = [
     model: "Move",
     price: 399,
     description: "A durable and versatile smart speaker with built-in Alexa.",
-    imgUrl: "src/assets/images/Speakers/6.png",
+    imgUrl: "/assets/images/Speakers/6.png",
     quantity: 1,
   },
   {
@@ -60,7 +60,7 @@ export const SpeakersData = [
     model: "Onyx Studio 6",
     price: 299,
     description: "A premium Bluetooth speaker with a unique round design.",
-    imgUrl: "src/assets/images/Speakers/7.png",
+    imgUrl: "/assets/images/Speakers/7.png",
     quantity: 1,
   },
   {
@@ -70,7 +70,7 @@ export const SpeakersData = [
     price: 79,
     description:
       "A portable Bluetooth speaker with LED lights and waterproof design.",
-    imgUrl: "src/assets/images/Speakers/8.png",
+    imgUrl: "/assets/images/Speakers/8.png",
     quantity: 1,
   },
   {
@@ -80,7 +80,7 @@ export const SpeakersData = [
     price: 179,
     description:
       "A portable Bluetooth speaker with clear sound and sleek design.",
-    imgUrl: "src/assets/images/Speakers/9.png",
+    imgUrl: "/assets/images/Speakers/9.png",
     quantity: 1,
   },
   {
@@ -89,7 +89,7 @@ export const SpeakersData = [
     model: "Zeppelin Wireless",
     price: 699,
     description: "A high-end wireless speaker with premium sound quality.",
-    imgUrl: "src/assets/images/Speakers/10.png",
+    imgUrl: "/assets/images/Speakers/10.png",
     quantity: 1,
   },
   {
@@ -99,7 +99,7 @@ export const SpeakersData = [
     price: 2999,
     description:
       "A luxury wireless speaker with powerful sound and elegant design.",
-    imgUrl: "src/assets/images/Speakers/11.png",
+    imgUrl: "/assets/images/Speakers/11.png",
     quantity: 1,
   },
   {
@@ -108,7 +108,7 @@ export const SpeakersData = [
     model: "The Three II",
     price: 499,
     description: "A stylish wireless speaker with rich and detailed sound.",
-    imgUrl: "src/assets/images/Speakers/12.png",
+    imgUrl: "/assets/images/Speakers/12.png",
     quantity: 1,
   },
   {
@@ -118,7 +118,7 @@ export const SpeakersData = [
     price: 499,
     description:
       "A versatile wireless speaker with multi-room audio capabilities.",
-    imgUrl: "src/assets/images/Speakers/13.png",
+    imgUrl: "/assets/images/Speakers/13.png",
     quantity: 1,
   },
   {
@@ -127,7 +127,7 @@ export const SpeakersData = [
     model: "Command Bar",
     price: 299,
     description: "A smart soundbar with built-in Alexa voice control.",
-    imgUrl: "src/assets/images/Speakers/14.png",
+    imgUrl: "/assets/images/Speakers/14.png",
     quantity: 1,
   },
   {
@@ -137,7 +137,7 @@ export const SpeakersData = [
     price: 249,
     description:
       "A budget-friendly soundbar with wireless subwoofer and satellite speakers.",
-    imgUrl: "src/assets/images/Speakers/15.png",
+    imgUrl: "/assets/images/Speakers/15.png",
     quantity: 1,
   },
   {
@@ -146,7 +146,7 @@ export const SpeakersData = [
     model: "HW-Q90R",
     price: 1399,
     description: "A premium soundbar with Dolby Atmos and DTS:X support.",
-    imgUrl: "src/assets/images/Speakers/16.png",
+    imgUrl: "/assets/images/Speakers/16.png",
     quantity: 1,
   },
   {
@@ -156,7 +156,7 @@ export const SpeakersData = [
     price: 1299,
     description:
       "A high-end soundbar with Meridian Audio technology and Dolby Atmos.",
-    imgUrl: "src/assets/images/Speakers/17.png",
+    imgUrl: "/assets/images/Speakers/17.png",
     quantity: 1,
   },
   {
@@ -165,7 +165,7 @@ export const SpeakersData = [
     model: "HT-Z9F",
     price: 899,
     description: "A 3.1 channel soundbar with Dolby Atmos and DTS:X support.",
-    imgUrl: "src/assets/images/Speakers/18.png",
+    imgUrl: "/assets/images/Speakers/18.png",
     quantity: 1,
   },
   {
@@ -175,7 +175,7 @@ export const SpeakersData = [
     price: 799,
     description:
       "A premium soundbar with Alexa voice control and Wi-Fi connectivity.",
-    imgUrl: "src/assets/images/Speakers/19.png",
+    imgUrl: "/assets/images/Speakers/19.png",
     quantity: 1,
   },
   {
@@ -184,7 +184,7 @@ export const SpeakersData = [
     model: "Beam",
     price: 399,
     description: "A compact soundbar with built-in Alexa and Google Assistant.",
-    imgUrl: "src/assets/images/Speakers/20.png",
+    imgUrl: "/assets/images/Speakers/20.png",
     quantity: 1,
   },
   {
@@ -194,7 +194,7 @@ export const SpeakersData = [
     price: 299,
     description:
       "A compact soundbar with wireless subwoofer and Google Assistant.",
-    imgUrl: "src/assets/images/Speakers/21.png",
+    imgUrl: "/assets/images/Speakers/21.png",
     quantity: 1,
   },
   {
@@ -204,7 +204,7 @@ export const SpeakersData = [
     price: 149,
     description:
       "A budget-friendly soundbar with wireless subwoofer and Bluetooth.",
-    imgUrl: "src/assets/images/Speakers/22.png",
+    imgUrl: "/assets/images/Speakers/22.png",
     quantity: 1,
   },
   {
@@ -213,7 +213,7 @@ export const SpeakersData = [
     model: "HW-R450",
     price: 199,
     description: "A 2.1 channel soundbar with wireless subwoofer.",
-    imgUrl: "src/assets/images/Speakers/23.png",
+    imgUrl: "/assets/images/Speakers/23.png",
     quantity: 1,
   },
   {
@@ -222,7 +222,7 @@ export const SpeakersData = [
     model: "SK9Y",
     price: 499,
     description: "A high-end soundbar with Dolby Atmos and DTS:X support.",
-    imgUrl: "src/assets/images/Speakers/24.png",
+    imgUrl: "/assets/images/Speakers/24.png",
     quantity: 1,
   },
   {
@@ -231,7 +231,7 @@ export const SpeakersData = [
     model: "HT-S350",
     price: 279,
     description: "A 2.1 channel soundbar with wireless subwoofer.",
-    imgUrl: "src/assets/images/Speakers/25.png",
+    imgUrl: "/assets/images/Speakers/25.png",
     quantity: 1,
   },
   {
@@ -240,7 +240,7 @@ export const SpeakersData = [
     model: "SoundTouch 300",
     price: 699,
     description: "A premium soundbar with Wi-Fi and Bluetooth connectivity.",
-    imgUrl: "src/assets/images/Speakers/26.png",
+    imgUrl: "/assets/images/Speakers/26.png",
     quantity: 1,
   },
   {
@@ -249,7 +249,7 @@ export const SpeakersData = [
     model: "Playbar",
     price: 699,
     description: "A high-end soundbar with nine amplified speaker drivers.",
-    imgUrl: "src/assets/images/Speakers/27.png",
+    imgUrl: "/assets/images/Speakers/27.png",
     quantity: 1,
   },
   {
@@ -258,7 +258,7 @@ export const SpeakersData = [
     model: "YAS-207",
     price: 299,
     description: "A budget-friendly soundbar with wireless subwoofer.",
-    imgUrl: "src/assets/images/Speakers/28.png",
+    imgUrl: "/assets/images/Speakers/28.png",
     quantity: 1,
   },
   {
@@ -267,7 +267,7 @@ export const SpeakersData = [
     model: "Signa S2",
     price: 199,
     description: "A compact soundbar with wireless subwoofer.",
-    imgUrl: "src/assets/images/Speakers/29.png",
+    imgUrl: "/assets/images/Speakers/29.png",
     quantity: 1,
   },
   {
@@ -276,7 +276,7 @@ export const SpeakersData = [
     model: "SB3821-C6",
     price: 159,
     description: "A budget-friendly soundbar with wireless subwoofer.",
-    imgUrl: "src/assets/images/Speakers/30.png",
+    imgUrl: "/assets/images/Speakers/30.png",
     quantity: 1,
   },
   {
@@ -285,7 +285,7 @@ export const SpeakersData = [
     model: "HW-J250",
     price: 129,
     description: "A compact soundbar with wireless subwoofer.",
-    imgUrl: "src/assets/images/Speakers/31.png",
+    imgUrl: "/assets/images/Speakers/31.png",
     quantity: 1,
   },
   {
@@ -294,7 +294,7 @@ export const SpeakersData = [
     model: "SL5Y",
     price: 279,
     description: "A 2.1 channel soundbar with wireless subwoofer.",
-    imgUrl: "src/assets/images/Speakers/32.png",
+    imgUrl: "/assets/images/Speakers/32.png",
     quantity: 1,
   },
   {
@@ -303,7 +303,7 @@ export const SpeakersData = [
     model: "HT-X9000F",
     price: 599,
     description: "A 2.1 channel soundbar with Dolby Atmos and DTS:X support.",
-    imgUrl: "src/assets/images/Speakers/33.png",
+    imgUrl: "/assets/images/Speakers/33.png",
     quantity: 1,
   },
   {
@@ -313,7 +313,7 @@ export const SpeakersData = [
     price: 249,
     description:
       "A compact soundbar with clear dialogue and Bluetooth connectivity.",
-    imgUrl: "src/assets/images/Speakers/34.png",
+    imgUrl: "/assets/images/Speakers/34.png",
     quantity: 1,
   },
   {
@@ -322,7 +322,7 @@ export const SpeakersData = [
     model: "Playbase",
     price: 699,
     description: "A high-end soundbase with ten amplified speaker drivers.",
-    imgUrl: "src/assets/images/Speakers/35.png",
+    imgUrl: "/assets/images/Speakers/35.png",
     quantity: 1,
   },
   {
@@ -332,7 +332,7 @@ export const SpeakersData = [
     price: 499,
     description:
       "A versatile soundbar with wireless subwoofer and MusicCast technology.",
-    imgUrl: "src/assets/images/Speakers/36.png",
+    imgUrl: "/assets/images/Speakers/36.png",
     quantity: 1,
   },
   {
@@ -342,7 +342,7 @@ export const SpeakersData = [
     price: 299,
     description:
       "A smart soundbar with built-in Alexa voice control and wireless subwoofer.",
-    imgUrl: "src/assets/images/Speakers/37.png",
+    imgUrl: "/assets/images/Speakers/37.png",
     quantity: 1,
   },
   {
@@ -351,7 +351,7 @@ export const SpeakersData = [
     model: "SB36512-F6",
     price: 499,
     description: "A premium soundbar with Dolby Atmos and DTS:X support.",
-    imgUrl: "src/assets/images/Speakers/38.png",
+    imgUrl: "/assets/images/Speakers/38.png",
     quantity: 1,
   },
   {
@@ -360,7 +360,7 @@ export const SpeakersData = [
     model: "HW-Q70R",
     price: 799,
     description: "A high-end soundbar with Dolby Atmos and DTS:X support.",
-    imgUrl: "src/assets/images/Speakers/39.png",
+    imgUrl: "/assets/images/Speakers/39.png",
     quantity: 1,
   },
   {
@@ -369,7 +369,7 @@ export const SpeakersData = [
     model: "SL7Y",
     price: 799,
     description: "A premium soundbar with Dolby Atmos and DTS:X support.",
-    imgUrl: "src/assets/images/Speakers/40.png",
+    imgUrl: "/assets/images/Speakers/40.png",
     quantity: 1,
   },
 ];

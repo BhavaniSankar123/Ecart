@@ -5,7 +5,7 @@ export const TVData = [
     model: "QLED Q80T",
     price: 1299,
     description: "A 65-inch QLED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/1.png",
+    imgUrl: "/assets/images/Tv's/1.png",
     quantity: 1,
   },
   {
@@ -14,7 +14,7 @@ export const TVData = [
     model: "OLED CX",
     price: 1499,
     description: "A 65-inch OLED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/2.png",
+    imgUrl: "/assets/images/Tv's/2.png",
     quantity: 1,
   },
   {
@@ -23,7 +23,7 @@ export const TVData = [
     model: "Bravia X900H",
     price: 1199,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/3.png",
+    imgUrl: "/assets/images/Tv's/3.png",
     quantity: 1,
   },
   {
@@ -32,7 +32,7 @@ export const TVData = [
     model: "6-Series",
     price: 999,
     description: "A 65-inch QLED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/4.png",
+    imgUrl: "/assets/images/Tv's/4.png",
     quantity: 1,
   },
   {
@@ -41,7 +41,7 @@ export const TVData = [
     model: "P-Series Quantum",
     price: 1099,
     description: "A 65-inch QLED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/5.png",
+    imgUrl: "/assets/images/Tv's/5.png",
     quantity: 1,
   },
   {
@@ -50,7 +50,7 @@ export const TVData = [
     model: "H8G",
     price: 899,
     description: "A 65-inch QLED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/6.png",
+    imgUrl: "/assets/images/Tv's/6.png",
     quantity: 1,
   },
   {
@@ -59,7 +59,7 @@ export const TVData = [
     model: "Fire TV Edition",
     price: 649,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/7.png",
+    imgUrl: "/assets/images/Tv's/7.png",
     quantity: 1,
   },
   {
@@ -68,7 +68,7 @@ export const TVData = [
     model: "Smart 4K UHD",
     price: 549,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/8.png",
+    imgUrl: "/assets/images/Tv's/8.png",
     quantity: 1,
   },
   {
@@ -77,7 +77,7 @@ export const TVData = [
     model: "Aquos 4K",
     price: 799,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/9.png",
+    imgUrl: "/assets/images/Tv's/9.png",
     quantity: 1,
   },
   {
@@ -86,7 +86,7 @@ export const TVData = [
     model: "PUS7304",
     price: 899,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/10.png",
+    imgUrl: "/assets/images/Tv's/10.png",
     quantity: 1,
   },
   {
@@ -95,7 +95,7 @@ export const TVData = [
     model: "GX800",
     price: 999,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/11.png",
+    imgUrl: "/assets/images/Tv's/11.png",
     quantity: 1,
   },
   {
@@ -104,7 +104,7 @@ export const TVData = [
     model: "U550CV-U",
     price: 399,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/12.png",
+    imgUrl: "/assets/images/Tv's/12.png",
     quantity: 1,
   },
   {
@@ -113,7 +113,7 @@ export const TVData = [
     model: "RTU6050",
     price: 299,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/13.png",
+    imgUrl: "/assets/images/Tv's/13.png",
     quantity: 1,
   },
   {
@@ -122,7 +122,7 @@ export const TVData = [
     model: "WR65UX4019",
     price: 349,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/14.png",
+    imgUrl: "/assets/images/Tv's/14.png",
     quantity: 1,
   },
   {
@@ -131,7 +131,7 @@ export const TVData = [
     model: "FW65R70F",
     price: 399,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/15.png",
+    imgUrl: "/assets/images/Tv's/15.png",
     quantity: 1,
   },
   {
@@ -140,7 +140,7 @@ export const TVData = [
     model: "EL4KAMZ5517",
     price: 299,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/16.png",
+    imgUrl: "/assets/images/Tv's/16.png",
     quantity: 1,
   },
   {
@@ -149,7 +149,7 @@ export const TVData = [
     model: "65C61",
     price: 399,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/17.png",
+    imgUrl: "/assets/images/Tv's/17.png",
     quantity: 1,
   },
   {
@@ -158,7 +158,7 @@ export const TVData = [
     model: "LT-65MA877",
     price: 499,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/18.png",
+    imgUrl: "/assets/images/Tv's/18.png",
     quantity: 1,
   },
   {
@@ -167,7 +167,7 @@ export const TVData = [
     model: "65MV378Y/F7",
     price: 399,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/19.png",
+    imgUrl: "/assets/images/Tv's/19.png",
     quantity: 1,
   },
   {
@@ -176,7 +176,7 @@ export const TVData = [
     model: "65T7U",
     price: 299,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/20.png",
+    imgUrl: "/assets/images/Tv's/20.png",
     quantity: 1,
   },
   {
@@ -185,7 +185,7 @@ export const TVData = [
     model: "65Q20200",
     price: 399,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/21.png",
+    imgUrl: "/assets/images/Tv's/21.png",
     quantity: 1,
   },
   {
@@ -194,7 +194,7 @@ export const TVData = [
     model: "4-Series",
     price: 349,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/22.png",
+    imgUrl: "/assets/images/Tv's/22.png",
     quantity: 1,
   },
   {
@@ -203,7 +203,7 @@ export const TVData = [
     model: "V-Series",
     price: 399,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/23.png",
+    imgUrl: "/assets/images/Tv's/23.png",
     quantity: 1,
   },
   {
@@ -212,7 +212,7 @@ export const TVData = [
     model: "R6 Series",
     price: 349,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/24.png",
+    imgUrl: "/assets/images/Tv's/24.png",
     quantity: 1,
   },
   {
@@ -221,7 +221,7 @@ export const TVData = [
     model: "NS-65DF710NA21",
     price: 399,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/25.png",
+    imgUrl: "/assets/images/Tv's/25.png",
     quantity: 1,
   },
   {
@@ -230,7 +230,7 @@ export const TVData = [
     model: "TF-65A810U21",
     price: 349,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/26.png",
+    imgUrl: "/assets/images/Tv's/26.png",
     quantity: 1,
   },
   {
@@ -239,7 +239,7 @@ export const TVData = [
     model: "LC-65LBU711U",
     price: 399,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/27.png",
+    imgUrl: "/assets/images/Tv's/27.png",
     quantity: 1,
   },
   {
@@ -248,7 +248,7 @@ export const TVData = [
     model: "65PFL5604/F7",
     price: 349,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/28.png",
+    imgUrl: "/assets/images/Tv's/28.png",
     quantity: 1,
   },
   {
@@ -257,7 +257,7 @@ export const TVData = [
     model: "TC-65GX700",
     price: 399,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/29.png",
+    imgUrl: "/assets/images/Tv's/29.png",
     quantity: 1,
   },
   {
@@ -266,7 +266,7 @@ export const TVData = [
     model: "U650CV-U",
     price: 299,
     description: "A 65-inch LED TV with 4K resolution and HDR.",
-    imgUrl: "src/assets/images/Tv's/30.png",
+    imgUrl: "/assets/images/Tv's/30.png",
     quantity: 1,
   },
 ];

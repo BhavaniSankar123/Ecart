@@ -5,7 +5,7 @@ export const ComputersData = [
     model: "MacBook Pro",
     price: 1299,
     description: "The latest MacBook Pro with M1 chip and Retina display.",
-    imgUrl: "src/assets/images/Computers/1.png",
+    imgUrl: "/assets/images/Computers/1.png",
     quantity: 1,
   },
   {
@@ -15,7 +15,7 @@ export const ComputersData = [
     price: 999,
     description:
       "The latest Dell XPS 13 with Intel i7 and InfinityEdge display.",
-    imgUrl: "src/assets/images/Computers/2.png",
+    imgUrl: "/assets/images/Computers/2.png",
     quantity: 1,
   },
   {
@@ -24,7 +24,7 @@ export const ComputersData = [
     model: "Spectre x360",
     price: 1099,
     description: "The latest HP Spectre x360 with Intel i7 and 4K display.",
-    imgUrl: "src/assets/images/Computers/3.png",
+    imgUrl: "/assets/images/Computers/3.png",
     quantity: 1,
   },
   {
@@ -34,7 +34,7 @@ export const ComputersData = [
     price: 1199,
     description:
       "The latest Lenovo ThinkPad X1 Carbon with Intel i7 and 14-inch display.",
-    imgUrl: "src/assets/images/Computers/4.png",
+    imgUrl: "/assets/images/Computers/4.png",
     quantity: 1,
   },
   {
@@ -44,7 +44,7 @@ export const ComputersData = [
     price: 899,
     description:
       "The latest Asus ZenBook 14 with AMD Ryzen 7 and NanoEdge display.",
-    imgUrl: "src/assets/images/Computers/5.png",
+    imgUrl: "/assets/images/Computers/5.png",
     quantity: 1,
   },
   {
@@ -53,7 +53,7 @@ export const ComputersData = [
     model: "Swift 3",
     price: 699,
     description: "The latest Acer Swift 3 with AMD Ryzen 5 and 1080p display.",
-    imgUrl: "src/assets/images/Computers/6.png",
+    imgUrl: "/assets/images/Computers/6.png",
     quantity: 1,
   },
   {
@@ -63,7 +63,7 @@ export const ComputersData = [
     price: 999,
     description:
       "The latest Microsoft Surface Laptop 4 with Intel i5 and PixelSense display.",
-    imgUrl: "src/assets/images/Computers/7.png",
+    imgUrl: "/assets/images/Computers/7.png",
     quantity: 1,
   },
   {
@@ -73,7 +73,7 @@ export const ComputersData = [
     price: 1499,
     description:
       "The latest Razer Blade 15 with Intel i7 and 144Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/8.png",
+    imgUrl: "/assets/images/Computers/8.png",
     quantity: 1,
   },
   {
@@ -82,7 +82,7 @@ export const ComputersData = [
     model: "Gram 17",
     price: 1299,
     description: "The latest LG Gram 17 with Intel i7 and WQXGA display.",
-    imgUrl: "src/assets/images/Computers/9.png",
+    imgUrl: "/assets/images/Computers/9.png",
     quantity: 1,
   },
   {
@@ -92,7 +92,7 @@ export const ComputersData = [
     price: 1199,
     description:
       "The latest Samsung Galaxy Book Pro with Intel i7 and AMOLED display.",
-    imgUrl: "src/assets/images/Computers/10.png",
+    imgUrl: "/assets/images/Computers/10.png",
     quantity: 1,
   },
   {
@@ -102,7 +102,7 @@ export const ComputersData = [
     price: 649,
     description:
       "The latest Google Pixelbook Go with Intel i5 and 1080p display.",
-    imgUrl: "src/assets/images/Computers/11.png",
+    imgUrl: "/assets/images/Computers/11.png",
     quantity: 1,
   },
   {
@@ -112,7 +112,7 @@ export const ComputersData = [
     price: 1199,
     description:
       "The latest Huawei MateBook X Pro with Intel i7 and 3K display.",
-    imgUrl: "src/assets/images/Computers/12.png",
+    imgUrl: "/assets/images/Computers/12.png",
     quantity: 1,
   },
   {
@@ -121,7 +121,7 @@ export const ComputersData = [
     model: "Prestige 14",
     price: 999,
     description: "The latest MSI Prestige 14 with Intel i7 and 4K display.",
-    imgUrl: "src/assets/images/Computers/13.png",
+    imgUrl: "/assets/images/Computers/13.png",
     quantity: 1,
   },
   {
@@ -131,7 +131,7 @@ export const ComputersData = [
     price: 1499,
     description:
       "The latest Alienware M15 R4 with Intel i7 and 300Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/14.png",
+    imgUrl: "/assets/images/Computers/14.png",
     quantity: 1,
   },
   {
@@ -140,7 +140,7 @@ export const ComputersData = [
     model: "15G",
     price: 1999,
     description: "The latest Aorus 15G with Intel i7 and 240Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/15.png",
+    imgUrl: "/assets/images/Computers/15.png",
     quantity: 1,
   },
   {
@@ -149,7 +149,7 @@ export const ComputersData = [
     model: "Aero 15",
     price: 1799,
     description: "The latest Gigabyte Aero 15 with Intel i7 and 4K display.",
-    imgUrl: "src/assets/images/Computers/16.png",
+    imgUrl: "/assets/images/Computers/16.png",
     quantity: 1,
   },
   {
@@ -159,7 +159,7 @@ export const ComputersData = [
     price: 1299,
     description:
       "The latest Razer Blade Stealth 13 with Intel i7 and 120Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/17.png",
+    imgUrl: "/assets/images/Computers/17.png",
     quantity: 1,
   },
   {
@@ -169,7 +169,7 @@ export const ComputersData = [
     price: 1499,
     description:
       "The latest Asus ROG Zephyrus G14 with AMD Ryzen 9 and 1440p display.",
-    imgUrl: "src/assets/images/Computers/18.png",
+    imgUrl: "/assets/images/Computers/18.png",
     quantity: 1,
   },
   {
@@ -178,7 +178,7 @@ export const ComputersData = [
     model: "Envy x360",
     price: 999,
     description: "The latest HP Envy x360 with AMD Ryzen 7 and 1080p display.",
-    imgUrl: "src/assets/images/Computers/19.png",
+    imgUrl: "/assets/images/Computers/19.png",
     quantity: 1,
   },
   {
@@ -188,7 +188,7 @@ export const ComputersData = [
     price: 1199,
     description:
       "The latest Lenovo Legion 5 with AMD Ryzen 7 and 144Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/20.png",
+    imgUrl: "/assets/images/Computers/20.png",
     quantity: 1,
   },
   {
@@ -197,7 +197,7 @@ export const ComputersData = [
     model: "G5 15",
     price: 999,
     description: "The latest Dell G5 15 with Intel i5 and 120Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/21.png",
+    imgUrl: "/assets/images/Computers/21.png",
     quantity: 1,
   },
   {
@@ -207,7 +207,7 @@ export const ComputersData = [
     price: 1199,
     description:
       "The latest Acer Predator Helios 300 with Intel i7 and 144Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/22.png",
+    imgUrl: "/assets/images/Computers/22.png",
     quantity: 1,
   },
   {
@@ -217,7 +217,7 @@ export const ComputersData = [
     price: 899,
     description:
       "The latest MSI GF65 Thin with Intel i5 and 120Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/23.png",
+    imgUrl: "/assets/images/Computers/23.png",
     quantity: 1,
   },
   {
@@ -227,7 +227,7 @@ export const ComputersData = [
     price: 999,
     description:
       "The latest Asus TUF Dash F15 with Intel i7 and 144Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/24.png",
+    imgUrl: "/assets/images/Computers/24.png",
     quantity: 1,
   },
   {
@@ -237,7 +237,7 @@ export const ComputersData = [
     price: 2499,
     description:
       "The latest Razer Blade 17 with Intel i9 and 360Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/25.png",
+    imgUrl: "/assets/images/Computers/25.png",
     quantity: 1,
   },
   {
@@ -246,7 +246,7 @@ export const ComputersData = [
     model: "Area-51m",
     price: 2999,
     description: "The latest Alienware Area-51m with Intel i9 and 4K display.",
-    imgUrl: "src/assets/images/Computers/26.png",
+    imgUrl: "/assets/images/Computers/26.png",
     quantity: 1,
   },
   {
@@ -255,7 +255,7 @@ export const ComputersData = [
     model: "17G",
     price: 2199,
     description: "The latest Aorus 17G with Intel i7 and 300Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/27.png",
+    imgUrl: "/assets/images/Computers/27.png",
     quantity: 1,
   },
   {
@@ -264,7 +264,7 @@ export const ComputersData = [
     model: "Aero 17",
     price: 1999,
     description: "The latest Gigabyte Aero 17 with Intel i7 and 4K display.",
-    imgUrl: "src/assets/images/Computers/28.png",
+    imgUrl: "/assets/images/Computers/28.png",
     quantity: 1,
   },
   {
@@ -274,7 +274,7 @@ export const ComputersData = [
     price: 1999,
     description:
       "The latest Asus ROG Strix Scar 15 with AMD Ryzen 9 and 240Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/29.png",
+    imgUrl: "/assets/images/Computers/29.png",
     quantity: 1,
   },
   {
@@ -284,7 +284,7 @@ export const ComputersData = [
     price: 1499,
     description:
       "The latest HP Omen 15 with AMD Ryzen 7 and 144Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/30.png",
+    imgUrl: "/assets/images/Computers/30.png",
     quantity: 1,
   },
   {
@@ -294,7 +294,7 @@ export const ComputersData = [
     price: 2199,
     description:
       "The latest Lenovo Legion 7 with AMD Ryzen 9 and 165Hz QHD display.",
-    imgUrl: "src/assets/images/Computers/31.png",
+    imgUrl: "/assets/images/Computers/31.png",
     quantity: 1,
   },
   {
@@ -304,7 +304,7 @@ export const ComputersData = [
     price: 2499,
     description:
       "The latest Dell Alienware m17 R4 with Intel i9 and 360Hz FHD display.",
-    imgUrl: "src/assets/images/Computers/32.png",
+    imgUrl: "/assets/images/Computers/32.png",
     quantity: 1,
   },
 ];
