@@ -1,58 +1,63 @@
 import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
 import { useState, useEffect } from "react";
-import "./App.css";
-import GadgetPage from "./components/GadgetPage/GadgetPage";
-import Login from "./components/Login/Login";
-import Header from "./components/Header/Header";
-import Home from "./components/Home/Home";
-import Category from "./components/Category/Category";
-import Cart from "./components/Cart/Cart";
-import Signup from "./components/Signup/Signup";
+import "./index.css";
+
+import GadgetPage from "./components/GadgetPage";
+import Login from "./components/Login";
+import Header from "./components/Header";
+import Home from "./components/Home";
+import Category from "./components/Category";
+import Cart from "./components/Cart";
+import Signup from "./components/SignUp";
 import { GadgetsProvider } from "./components/contexts/GadgetProvider";
 import { CartProvider } from "./components/contexts/CartProvider";
 import { AddCartProvider } from "./components/contexts/AddCartProvider";
 
-// import { MobilesData } from "./assets/ProductsData/Mobiles-Data";
-// import { ComputersData } from "./assets/ProductsData/Computers-Data";
-// import { ACData } from "./assets/ProductsData/AC-Data";
-// import { BooksData } from "./assets/ProductsData/Books-Data";
-// import { FridgeData } from "./assets/ProductsData/Fridge-Data";
-// import { FurnitureData } from "./assets/ProductsData/Furniture-Data";
-// import { KitchenData } from "./assets/ProductsData/Kitchen-Data";
-// import { MensData } from "./assets/ProductsData/Mens-Data";
-// import { WomenData } from "./assets/ProductsData/Women-Data";
-// import { SpeakersData } from "./assets/ProductsData/Speaker-Data";
-// import { TVData } from "./assets/ProductsData/Tv-Data";
+import { MobilesData } from "/public/assets/ProductsData/MobilesData";
+import { ComputersData } from "/public/assets/ProductsData/ComputersData";
+import { ACData } from "/public/assets/ProductsData/ACData";
+import { BooksData } from "/public/assets/ProductsData/BooksData";
+import { FridgeData } from "/public/assets/ProductsData/FridgeData";
+import { FurnitureData } from "/public/assets/ProductsData/FurnitureData";
+import { KitchenData } from "/public/assets/ProductsData/KitchenData";
+import { MensData } from "/public/assets/ProductsData/MensData";
+import { WomenData } from "/public/assets/ProductsData/WomenData";
+import { SpeakersData } from "/public/assets/ProductsData/SpeakersData";
+import { TVData } from "/public/assets/ProductsData/TVData";
+import { WatchesData } from "/public/assets/ProductsData/WatchesData";
+import { ShoesData } from "/public/assets/ProductsData/ShoesData";
 
-// const gadgetsList = [
-//   "Mobiles",
-//   "Computers",
-//   "Furniture",
-//   "Kitchen",
-//   "Mens Wear",
-//   "Womens Wear",
-//   "Books",
-//   "Fridge",
-//   "AC",
-//   "Tv's",
-//   "Watches",
-//   "Speakers",
-// ];
+const gadgetsList = [
+  "Mobiles",
+  "Computers",
+  "Furniture",
+  "Kitchen",
+  "Mens-Wear",
+  "Womens-Wear",
+  "Books",
+  "Fridge",
+  "AC",
+  "Tv's",
+  "Shoes",
+  "Watches",
+  "Speakers",
+];
 
-// const dataList = [
-//   MobilesData,
-//   ComputersData,
-//   FurnitureData,
-//   KitchenData,
-//   MensData,
-//   WomenData,
-//   BooksData,
-//   FridgeData,
-//   ACData,
-//   TVData,
-//   TVData,
-//   SpeakersData,
-// ];
+const dataList = [
+  MobilesData,
+  ComputersData,
+  FurnitureData,
+  KitchenData,
+  MensData,
+  WomenData,
+  BooksData,
+  FridgeData,
+  ACData,
+  TVData,
+  ShoesData,
+  WatchesData,
+  SpeakersData,
+];
 
 function App() {
   const [login, setLogin] = useState(() => {
@@ -81,9 +86,11 @@ function AppContent({ login, setLogin }) {
   return (
     <>
       {location.pathname !== "/login" && location.pathname !== "/register" && (
-        <Header login={login} setLogin={setLogin} />
+        <>
+          <Header login={login} setLogin={setLogin} />
+          <Category gadgetsList={gadgetsList} />
+        </>
       )}
-      <Category gadgetsList={gadgetsList} />
       <Routes>
         <Route path="/register" element={<Signup />} />
         <Route path="/" element={<Home dataList={dataList} />} />
