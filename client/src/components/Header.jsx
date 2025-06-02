@@ -13,7 +13,7 @@ const Header = ({ login, setLogin }) => {
   };
 
   return (
-    <div className="flex justify-between items-center p-4 bg-blue-500 text-black">
+    <div className="flex justify-between items-center p-4 bg-[#F78137] text-black">
       <Link to="/">
         <h1 className="text-2xl font-bold text-white">E-Cart</h1>
       </Link>

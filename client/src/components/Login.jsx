@@ -1,5 +1,6 @@
 import React, { useRef } from "react";
 import { Link, useNavigate } from "react-router-dom";
+import { BiArrowBack } from "react-icons/bi";
 
 const Login = () => {
   const email = useRef();
@@ -34,34 +35,40 @@ const Login = () => {
 
   return (
     <div className="flex flex-col justify-center items-center h-screen gap-4">
-      <h1 className="text-red-500 text-2xl text-bold">Login</h1>
-      <form
-        onSubmit={checkMatch}
-        className="h-96 w-96 flex flex-col gap-4 items-center border-2 border-black p-4"
+      <Link to="/" className="fixed top-4 left-4 border border-black rounded-full p-2">
+        <BiArrowBack className="text-2xl text-blue-700 hover:text-blue-500 transition" />
+      </Link>
+      <div className="h-72 border-2 border-black p-4"
       >
-        <input
-          type="email"
-          className="border"
-          ref={email}
-          placeholder="Email"
-          required
-        />
-        <input
-          type="password"
-          className="border"
-          ref={password}
-          placeholder="Password"
-          required
-        />
-        <button type="submit" className="w-auto">
-          Login
-        </button>
-        <div className="error" style={{ display: "none" }}></div>
-        <p>Don't have an account?</p>
-        <Link to="/register" className="hover:text-blue-500">
-          Register
-        </Link>
-      </form>
+        <h1 className=" text-2xl text-center text-bold mb-4">Login</h1>
+        <form
+          onSubmit={checkMatch}
+        >
+          <input
+            type="email"
+            className="border w-full px-3 py-2 mb-4"
+            ref={email}
+            placeholder="Email"
+            required
+          />
+          <input
+            type="password"
+            className="border w-full px-3 py-2 mb-4"
+            ref={password}
+            placeholder="Password"
+            required
+          />
+          <button type="submit" className=" px-3 py-1 bg-blue-500 text-white hover:bg-blue-600 transition">
+            Login
+          </button>
+          <div className="error" style={{ display: "none" }}></div>
+          <p className="text-center">Don't have an account?
+            <Link to="/register" className="text-blue-700 hover:text-blue-500 ml-4">
+              Register
+            </Link>
+          </p>
+        </form>
+      </div>
     </div>
   );
 };

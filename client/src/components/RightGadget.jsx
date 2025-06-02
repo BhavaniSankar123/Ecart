@@ -21,7 +21,7 @@ const RightGadget = ({ gadgetData, itemList }) => {
       {itemsToDisplay.map((item) => (
         <li
           key={item.id}
-          className="list-none bg-white border border-gray-300 rounded-md p-2 shadow-md transition-transform transform hover:scale-105 hover:bg-yellow-200"
+          className="list-none bg-white border border-gray-300 rounded-md p-2 shadow-md transition-transform transform hover:scale-105 hover:bg-orange-200"
         >
           <div className="h-40 w-40 flex items-center justify-center p-4">
             <img

@@ -77,7 +77,7 @@ const Cart = () => {
                 </p>
                 <button
                   onClick={() => removeFromCart(item)}
-                  className="mt-2 px-4 py-2 w-auto bg-red-500 text-white rounded hover:bg-red-600"
+                  className="mt-2 px-4 py-2 w-auto bg-red-600 text-white rounded hover:bg-red-600"
                 >
                   Remove
                 </button>
@@ -86,9 +86,12 @@ const Cart = () => {
           ))}
         </ul>
       ) : (
-        <p className="text-center text-gray-600 font-bold text-3xl">
-          Cart is empty
-        </p>
+        <div className="flex flex-col justify-start items-center h-[90vh] gap-4">
+          <img src="/assets/images/noItems.jpg" alt="No Items" height={500} width={500} />
+          <h2 className="text-green-600 font-bold text-3xl">
+            Add Products to Cart
+          </h2>
+        </div>
       )}
     </div>
   );

@@ -14,8 +14,8 @@ const Home = ({ dataList }) => {
   return (
     <div className="bg-[#f9f9f9] p-6 ">
       {showBanner && (
-        <div className="relative fit-content mx-auto mb-6 bg-blue-500">
-          <img src="src/assets/banner1.jpg" alt="Banner" className="w-full" />
+        <div className="relative fit-content mx-auto mb-6 h-80 bg-blue-500">
+          <img src="\assets\banner1.jpg" alt="Banner" className="w-full h-full" />
           <button
             className="absolute top-0 right-0 w-8 h-8 bg-white rounded-full flex items-center justify-center text-black font-bold"
             onClick={handleBannerClose}

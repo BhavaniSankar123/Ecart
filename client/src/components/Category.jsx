@@ -9,7 +9,7 @@ const Category = ({ gadgetsList }) => {
           <Link to={`/${gadget}`} key={index}>
             <li
               key={index}
-              className="border-[#000]  rounded-md bg-blue-500 text-white p-2 m-2 hover:text-black"
+              className="border-[#000]  rounded-md bg-[#F78137] text-white p-2 m-2 hover:text-black"
             >
               {gadget}
             </li>

@@ -1,5 +1,6 @@
 import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
 import { useState, useEffect } from "react";
+import { Navigate } from "react-router-dom";
 import "./index.css";
 
 import GadgetPage from "./components/GadgetPage";
@@ -9,6 +10,7 @@ import Home from "./components/Home";
 import Category from "./components/Category";
 import Cart from "./components/Cart";
 import Signup from "./components/SignUp";
+import NotFound from "./components/NotFound";
 import { GadgetsProvider } from "./components/contexts/GadgetProvider";
 import { CartProvider } from "./components/contexts/CartProvider";
 import { AddCartProvider } from "./components/contexts/AddCartProvider";
@@ -85,12 +87,13 @@ function AppContent({ login, setLogin }) {
   const location = useLocation();
   return (
     <>
-      {location.pathname !== "/login" && location.pathname !== "/register" && (
-        <>
-          <Header login={login} setLogin={setLogin} />
-          <Category gadgetsList={gadgetsList} />
-        </>
-      )}
+      {location.pathname !== "/login" && location.pathname !== "/register" && location.pathname !== "/404" &&
+        (
+          <>
+            <Header login={login} setLogin={setLogin} />
+            <Category gadgetsList={gadgetsList} />
+          </>
+        )}
       <Routes>
         <Route path="/register" element={<Signup />} />
         <Route path="/" element={<Home dataList={dataList} />} />
@@ -103,6 +106,8 @@ function AppContent({ login, setLogin }) {
         ))}
         <Route path="/cart" element={<Cart />} />
         <Route path="/login" element={<Login setLogin={setLogin} />} />
+        <Route path="/404" element={<NotFound />} />
+        <Route path="*" element={<Navigate to="/404" replace />} />
       </Routes>
     </>
   );
